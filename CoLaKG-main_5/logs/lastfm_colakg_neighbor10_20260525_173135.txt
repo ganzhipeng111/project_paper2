@@ -1,0 +1,1400 @@
+Training Log
+====================
+TEST RESULTS at EPOCH[1/2000]: {'precision': array([0.00290479, 0.00290479]), 'recall': array([0.00410743, 0.00820291]), 'ndcg': array([0.00320419, 0.00518963])}
+EPOCH[1/2000] loss0.678-|Sample:1.07| - Time: 3.98 seconds
+EPOCH[2/2000] loss0.545-|Sample:1.09| - Time: 3.03 seconds
+EPOCH[3/2000] loss0.433-|Sample:0.89| - Time: 9.09 seconds
+EPOCH[4/2000] loss0.329-|Sample:1.14| - Time: 9.54 seconds
+EPOCH[5/2000] loss0.296-|Sample:0.88| - Time: 9.26 seconds
+TEST RESULTS at EPOCH[6/2000]: {'precision': array([0.12237762, 0.08671329]), 'recall': array([0.15539802, 0.22025624]), 'ndcg': array([0.17101942, 0.20361095])}
+EPOCH[6/2000] loss0.274-|Sample:1.18| - Time: 9.50 seconds
+EPOCH[7/2000] loss0.254-|Sample:1.05| - Time: 9.19 seconds
+EPOCH[8/2000] loss0.238-|Sample:0.87| - Time: 8.93 seconds
+EPOCH[9/2000] loss0.228-|Sample:1.09| - Time: 8.96 seconds
+EPOCH[10/2000] loss0.217-|Sample:0.86| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[11/2000]: {'precision': array([0.13507262, 0.0965035 ]), 'recall': array([0.17190993, 0.24824641]), 'ndcg': array([0.19132131, 0.22909617])}
+EPOCH[11/2000] loss0.211-|Sample:1.08| - Time: 9.62 seconds
+EPOCH[12/2000] loss0.199-|Sample:1.12| - Time: 8.82 seconds
+EPOCH[13/2000] loss0.196-|Sample:0.89| - Time: 9.21 seconds
+EPOCH[14/2000] loss0.186-|Sample:1.13| - Time: 8.93 seconds
+EPOCH[15/2000] loss0.181-|Sample:1.10| - Time: 9.26 seconds
+TEST RESULTS at EPOCH[16/2000]: {'precision': array([0.14513179, 0.10260893]), 'recall': array([0.1861252 , 0.26596779]), 'ndcg': array([0.20414325, 0.24335968])}
+EPOCH[16/2000] loss0.176-|Sample:0.90| - Time: 9.28 seconds
+EPOCH[17/2000] loss0.173-|Sample:1.11| - Time: 9.27 seconds
+EPOCH[18/2000] loss0.171-|Sample:0.89| - Time: 8.87 seconds
+EPOCH[19/2000] loss0.165-|Sample:1.09| - Time: 9.01 seconds
+EPOCH[20/2000] loss0.163-|Sample:1.08| - Time: 9.02 seconds
+TEST RESULTS at EPOCH[21/2000]: {'precision': array([0.15024207, 0.10521786]), 'recall': array([0.19410846, 0.27375445]), 'ndcg': array([0.21343465, 0.25282546])}
+EPOCH[21/2000] loss0.160-|Sample:0.90| - Time: 9.21 seconds
+EPOCH[22/2000] loss0.154-|Sample:1.10| - Time: 8.95 seconds
+EPOCH[23/2000] loss0.153-|Sample:0.89| - Time: 8.68 seconds
+EPOCH[24/2000] loss0.154-|Sample:1.09| - Time: 8.89 seconds
+EPOCH[25/2000] loss0.147-|Sample:1.08| - Time: 8.78 seconds
+TEST RESULTS at EPOCH[26/2000]: {'precision': array([0.15239376, 0.10831092]), 'recall': array([0.19931287, 0.28556187]), 'ndcg': array([0.21793718, 0.26022711])}
+EPOCH[26/2000] loss0.147-|Sample:0.91| - Time: 9.36 seconds
+EPOCH[27/2000] loss0.145-|Sample:1.15| - Time: 9.31 seconds
+EPOCH[28/2000] loss0.143-|Sample:1.10| - Time: 9.24 seconds
+EPOCH[29/2000] loss0.139-|Sample:0.87| - Time: 9.05 seconds
+EPOCH[30/2000] loss0.138-|Sample:1.08| - Time: 9.01 seconds
+TEST RESULTS at EPOCH[31/2000]: {'precision': array([0.15836471, 0.1105702 ]), 'recall': array([0.20786478, 0.29311287]), 'ndcg': array([0.2268862 , 0.26837844])}
+EPOCH[31/2000] loss0.134-|Sample:0.92| - Time: 9.45 seconds
+EPOCH[32/2000] loss0.137-|Sample:1.12| - Time: 9.31 seconds
+EPOCH[33/2000] loss0.134-|Sample:1.13| - Time: 9.40 seconds
+EPOCH[34/2000] loss0.134-|Sample:0.89| - Time: 8.71 seconds
+EPOCH[35/2000] loss0.134-|Sample:1.12| - Time: 9.09 seconds
+TEST RESULTS at EPOCH[36/2000]: {'precision': array([0.16008607, 0.11291017]), 'recall': array([0.21026964, 0.30073431]), 'ndcg': array([0.22768982, 0.2714682 ])}
+EPOCH[36/2000] loss0.132-|Sample:1.17| - Time: 9.44 seconds
+EPOCH[37/2000] loss0.127-|Sample:0.91| - Time: 8.72 seconds
+EPOCH[38/2000] loss0.128-|Sample:1.12| - Time: 9.04 seconds
+EPOCH[39/2000] loss0.128-|Sample:0.90| - Time: 8.98 seconds
+EPOCH[40/2000] loss0.134-|Sample:1.09| - Time: 9.17 seconds
+TEST RESULTS at EPOCH[41/2000]: {'precision': array([0.16369016, 0.11449704]), 'recall': array([0.21627987, 0.30354005]), 'ndcg': array([0.23523821, 0.2782188 ])}
+EPOCH[41/2000] loss0.129-|Sample:1.10| - Time: 9.29 seconds
+EPOCH[42/2000] loss0.128-|Sample:0.90| - Time: 8.93 seconds
+EPOCH[43/2000] loss0.129-|Sample:1.12| - Time: 8.95 seconds
+EPOCH[44/2000] loss0.126-|Sample:0.91| - Time: 9.16 seconds
+EPOCH[45/2000] loss0.123-|Sample:1.19| - Time: 9.01 seconds
+TEST RESULTS at EPOCH[46/2000]: {'precision': array([0.16557289, 0.11519634]), 'recall': array([0.21861984, 0.30706388]), 'ndcg': array([0.23778308, 0.2808777 ])}
+EPOCH[46/2000] loss0.125-|Sample:1.35| - Time: 10.15 seconds
+EPOCH[47/2000] loss0.121-|Sample:0.94| - Time: 9.50 seconds
+EPOCH[48/2000] loss0.120-|Sample:1.10| - Time: 9.84 seconds
+EPOCH[49/2000] loss0.126-|Sample:1.15| - Time: 9.75 seconds
+EPOCH[50/2000] loss0.120-|Sample:0.89| - Time: 9.49 seconds
+TEST RESULTS at EPOCH[51/2000]: {'precision': array([0.16605702, 0.11597633]), 'recall': array([0.22019156, 0.30942989]), 'ndcg': array([0.24101759, 0.28482794])}
+EPOCH[51/2000] loss0.121-|Sample:1.12| - Time: 9.78 seconds
+EPOCH[52/2000] loss0.119-|Sample:0.90| - Time: 9.23 seconds
+EPOCH[53/2000] loss0.119-|Sample:1.11| - Time: 9.62 seconds
+EPOCH[54/2000] loss0.116-|Sample:1.05| - Time: 9.25 seconds
+EPOCH[55/2000] loss0.117-|Sample:0.94| - Time: 9.39 seconds
+TEST RESULTS at EPOCH[56/2000]: {'precision': array([0.16788596, 0.117617  ]), 'recall': array([0.22260368, 0.31442916]), 'ndcg': array([0.243181  , 0.28801364])}
+EPOCH[56/2000] loss0.114-|Sample:1.11| - Time: 10.20 seconds
+EPOCH[57/2000] loss0.116-|Sample:1.03| - Time: 8.81 seconds
+EPOCH[58/2000] loss0.112-|Sample:0.88| - Time: 8.73 seconds
+EPOCH[59/2000] loss0.114-|Sample:1.06| - Time: 9.01 seconds
+EPOCH[60/2000] loss0.115-|Sample:0.92| - Time: 8.83 seconds
+TEST RESULTS at EPOCH[61/2000]: {'precision': array([0.17079075, 0.11890802]), 'recall': array([0.22653308, 0.3183829 ]), 'ndcg': array([0.24515395, 0.28974059])}
+EPOCH[61/2000] loss0.115-|Sample:1.07| - Time: 9.76 seconds
+EPOCH[62/2000] loss0.113-|Sample:1.07| - Time: 9.42 seconds
+EPOCH[63/2000] loss0.109-|Sample:0.89| - Time: 8.80 seconds
+EPOCH[64/2000] loss0.111-|Sample:1.07| - Time: 8.97 seconds
+EPOCH[65/2000] loss0.111-|Sample:0.91| - Time: 8.81 seconds
+TEST RESULTS at EPOCH[66/2000]: {'precision': array([0.17240452, 0.11995697]), 'recall': array([0.22905001, 0.32156519]), 'ndcg': array([0.2472739, 0.2922105])}
+EPOCH[66/2000] loss0.111-|Sample:1.07| - Time: 9.86 seconds
+EPOCH[67/2000] loss0.109-|Sample:1.09| - Time: 9.30 seconds
+EPOCH[68/2000] loss0.109-|Sample:0.96| - Time: 9.13 seconds
+EPOCH[69/2000] loss0.106-|Sample:1.08| - Time: 9.10 seconds
+EPOCH[70/2000] loss0.106-|Sample:1.10| - Time: 9.16 seconds
+TEST RESULTS at EPOCH[71/2000]: {'precision': array([0.17288865, 0.12092523]), 'recall': array([0.23039909, 0.32451843]), 'ndcg': array([0.2478439 , 0.29354609])}
+EPOCH[71/2000] loss0.106-|Sample:0.88| - Time: 9.36 seconds
+EPOCH[72/2000] loss0.108-|Sample:1.10| - Time: 8.59 seconds
+EPOCH[73/2000] loss0.104-|Sample:0.90| - Time: 8.74 seconds
+EPOCH[74/2000] loss0.103-|Sample:1.05| - Time: 8.81 seconds
+EPOCH[75/2000] loss0.103-|Sample:1.09| - Time: 9.32 seconds
+TEST RESULTS at EPOCH[76/2000]: {'precision': array([0.17417967, 0.12100592]), 'recall': array([0.23224105, 0.32571958]), 'ndcg': array([0.25027445, 0.29545842])}
+EPOCH[76/2000] loss0.103-|Sample:0.89| - Time: 9.38 seconds
+EPOCH[77/2000] loss0.103-|Sample:1.16| - Time: 8.95 seconds
+EPOCH[78/2000] loss0.103-|Sample:1.02| - Time: 8.46 seconds
+EPOCH[79/2000] loss0.103-|Sample:0.91| - Time: 8.84 seconds
+EPOCH[80/2000] loss0.105-|Sample:1.21| - Time: 9.29 seconds
+TEST RESULTS at EPOCH[81/2000]: {'precision': array([0.17310382, 0.12124798]), 'recall': array([0.23169437, 0.32632944]), 'ndcg': array([0.24951232, 0.29561341])}
+EPOCH[81/2000] loss0.101-|Sample:0.90| - Time: 9.62 seconds
+EPOCH[82/2000] loss0.100-|Sample:1.05| - Time: 8.89 seconds
+EPOCH[83/2000] loss0.100-|Sample:1.04| - Time: 8.83 seconds
+EPOCH[84/2000] loss0.098-|Sample:0.90| - Time: 8.49 seconds
+EPOCH[85/2000] loss0.099-|Sample:1.06| - Time: 8.93 seconds
+TEST RESULTS at EPOCH[86/2000]: {'precision': array([0.1753631 , 0.12283486]), 'recall': array([0.23492106, 0.33065482]), 'ndcg': array([0.25218306, 0.29888318])}
+EPOCH[86/2000] loss0.098-|Sample:1.03| - Time: 9.08 seconds
+EPOCH[87/2000] loss0.096-|Sample:0.91| - Time: 8.33 seconds
+EPOCH[88/2000] loss0.096-|Sample:1.03| - Time: 8.77 seconds
+EPOCH[89/2000] loss0.097-|Sample:0.88| - Time: 8.67 seconds
+EPOCH[90/2000] loss0.095-|Sample:1.09| - Time: 8.67 seconds
+TEST RESULTS at EPOCH[91/2000]: {'precision': array([0.17643895, 0.1239645 ]), 'recall': array([0.23651797, 0.33424823]), 'ndcg': array([0.25378188, 0.30125328])}
+EPOCH[91/2000] loss0.098-|Sample:1.11| - Time: 9.93 seconds
+EPOCH[92/2000] loss0.098-|Sample:0.95| - Time: 8.53 seconds
+EPOCH[93/2000] loss0.097-|Sample:1.08| - Time: 8.29 seconds
+EPOCH[94/2000] loss0.098-|Sample:0.90| - Time: 8.50 seconds
+EPOCH[95/2000] loss0.095-|Sample:1.01| - Time: 8.43 seconds
+TEST RESULTS at EPOCH[96/2000]: {'precision': array([0.17762238, 0.12517483]), 'recall': array([0.23813622, 0.33851875]), 'ndcg': array([0.25627013, 0.30470985])}
+EPOCH[96/2000] loss0.094-|Sample:1.06| - Time: 9.68 seconds
+EPOCH[97/2000] loss0.093-|Sample:0.88| - Time: 9.42 seconds
+EPOCH[98/2000] loss0.094-|Sample:1.18| - Time: 9.14 seconds
+EPOCH[99/2000] loss0.094-|Sample:1.12| - Time: 9.30 seconds
+EPOCH[100/2000] loss0.094-|Sample:0.89| - Time: 9.10 seconds
+TEST RESULTS at EPOCH[101/2000]: {'precision': array([0.17869822, 0.12450242]), 'recall': array([0.2408442 , 0.33649257]), 'ndcg': array([0.25846163, 0.30505512])}
+EPOCH[101/2000] loss0.096-|Sample:1.06| - Time: 10.03 seconds
+EPOCH[102/2000] loss0.093-|Sample:0.89| - Time: 9.07 seconds
+EPOCH[103/2000] loss0.093-|Sample:1.08| - Time: 9.45 seconds
+EPOCH[104/2000] loss0.092-|Sample:1.17| - Time: 9.15 seconds
+EPOCH[105/2000] loss0.094-|Sample:0.91| - Time: 9.09 seconds
+TEST RESULTS at EPOCH[106/2000]: {'precision': array([0.17934373, 0.12487897]), 'recall': array([0.24161309, 0.33750608]), 'ndcg': array([0.25943418, 0.30628632])}
+EPOCH[106/2000] loss0.092-|Sample:1.13| - Time: 9.58 seconds
+EPOCH[107/2000] loss0.093-|Sample:1.02| - Time: 8.71 seconds
+EPOCH[108/2000] loss0.091-|Sample:0.89| - Time: 8.59 seconds
+EPOCH[109/2000] loss0.091-|Sample:1.08| - Time: 8.84 seconds
+EPOCH[110/2000] loss0.090-|Sample:0.88| - Time: 9.00 seconds
+TEST RESULTS at EPOCH[111/2000]: {'precision': array([0.17988166, 0.12622378]), 'recall': array([0.24181737, 0.34025077]), 'ndcg': array([0.26015511, 0.30830448])}
+EPOCH[111/2000] loss0.088-|Sample:1.09| - Time: 9.64 seconds
+EPOCH[112/2000] loss0.091-|Sample:1.08| - Time: 9.24 seconds
+EPOCH[113/2000] loss0.088-|Sample:0.93| - Time: 9.02 seconds
+EPOCH[114/2000] loss0.085-|Sample:1.07| - Time: 9.25 seconds
+EPOCH[115/2000] loss0.089-|Sample:0.92| - Time: 8.74 seconds
+TEST RESULTS at EPOCH[116/2000]: {'precision': array([0.1817106 , 0.12716514]), 'recall': array([0.24467648, 0.34264176]), 'ndcg': array([0.2616869 , 0.30980317])}
+EPOCH[116/2000] loss0.089-|Sample:0.91| - Time: 9.52 seconds
+EPOCH[117/2000] loss0.088-|Sample:1.13| - Time: 9.05 seconds
+EPOCH[118/2000] loss0.088-|Sample:0.89| - Time: 9.05 seconds
+EPOCH[119/2000] loss0.087-|Sample:1.09| - Time: 9.13 seconds
+EPOCH[120/2000] loss0.086-|Sample:1.27| - Time: 9.37 seconds
+TEST RESULTS at EPOCH[121/2000]: {'precision': array([0.18154922, 0.12786444]), 'recall': array([0.24490445, 0.34473262]), 'ndcg': array([0.26335686, 0.31255159])}
+EPOCH[121/2000] loss0.087-|Sample:0.92| - Time: 9.66 seconds
+EPOCH[122/2000] loss0.086-|Sample:1.13| - Time: 9.11 seconds
+EPOCH[123/2000] loss0.087-|Sample:0.89| - Time: 9.19 seconds
+EPOCH[124/2000] loss0.086-|Sample:1.05| - Time: 9.25 seconds
+EPOCH[125/2000] loss0.087-|Sample:1.08| - Time: 8.95 seconds
+TEST RESULTS at EPOCH[126/2000]: {'precision': array([0.18343195, 0.12735342]), 'recall': array([0.24826883, 0.34381409]), 'ndcg': array([0.26627264, 0.31329546])}
+EPOCH[126/2000] loss0.084-|Sample:0.88| - Time: 9.57 seconds
+EPOCH[127/2000] loss0.085-|Sample:1.11| - Time: 9.19 seconds
+EPOCH[128/2000] loss0.085-|Sample:1.06| - Time: 8.77 seconds
+EPOCH[129/2000] loss0.085-|Sample:0.87| - Time: 9.22 seconds
+EPOCH[130/2000] loss0.085-|Sample:1.08| - Time: 9.15 seconds
+TEST RESULTS at EPOCH[131/2000]: {'precision': array([0.18445401, 0.12845616]), 'recall': array([0.24825815, 0.34723695]), 'ndcg': array([0.26725624, 0.31564887])}
+EPOCH[131/2000] loss0.083-|Sample:0.89| - Time: 9.22 seconds
+EPOCH[132/2000] loss0.083-|Sample:1.11| - Time: 9.02 seconds
+EPOCH[133/2000] loss0.082-|Sample:1.10| - Time: 9.29 seconds
+EPOCH[134/2000] loss0.084-|Sample:0.88| - Time: 9.34 seconds
+EPOCH[135/2000] loss0.083-|Sample:1.09| - Time: 9.48 seconds
+TEST RESULTS at EPOCH[136/2000]: {'precision': array([0.18423884, 0.12894029]), 'recall': array([0.24825089, 0.34844088]), 'ndcg': array([0.26892488, 0.3178655 ])}
+EPOCH[136/2000] loss0.083-|Sample:0.87| - Time: 9.70 seconds
+EPOCH[137/2000] loss0.083-|Sample:1.05| - Time: 9.06 seconds
+EPOCH[138/2000] loss0.086-|Sample:1.08| - Time: 9.03 seconds
+EPOCH[139/2000] loss0.083-|Sample:0.88| - Time: 8.49 seconds
+EPOCH[140/2000] loss0.080-|Sample:1.11| - Time: 9.10 seconds
+TEST RESULTS at EPOCH[141/2000]: {'precision': array([0.18316299, 0.12963959]), 'recall': array([0.24730419, 0.35012765]), 'ndcg': array([0.26778217, 0.31826831])}
+EPOCH[141/2000] loss0.079-|Sample:1.01| - Time: 9.69 seconds
+EPOCH[142/2000] loss0.079-|Sample:0.89| - Time: 8.47 seconds
+EPOCH[143/2000] loss0.082-|Sample:1.08| - Time: 9.04 seconds
+EPOCH[144/2000] loss0.079-|Sample:0.91| - Time: 9.02 seconds
+EPOCH[145/2000] loss0.082-|Sample:1.05| - Time: 9.14 seconds
+TEST RESULTS at EPOCH[146/2000]: {'precision': array([0.18612157, 0.12928994]), 'recall': array([0.25100839, 0.34932952]), 'ndcg': array([0.2708366 , 0.31889414])}
+EPOCH[146/2000] loss0.079-|Sample:1.03| - Time: 9.70 seconds
+EPOCH[147/2000] loss0.080-|Sample:0.88| - Time: 9.20 seconds
+EPOCH[148/2000] loss0.079-|Sample:1.09| - Time: 9.23 seconds
+EPOCH[149/2000] loss0.079-|Sample:0.98| - Time: 8.69 seconds
+EPOCH[150/2000] loss0.078-|Sample:1.07| - Time: 9.08 seconds
+TEST RESULTS at EPOCH[151/2000]: {'precision': array([0.18515331, 0.13009683]), 'recall': array([0.25036865, 0.35147459]), 'ndcg': array([0.2707594 , 0.32033249])}
+EPOCH[151/2000] loss0.078-|Sample:1.07| - Time: 9.39 seconds
+EPOCH[152/2000] loss0.079-|Sample:0.89| - Time: 8.71 seconds
+EPOCH[153/2000] loss0.079-|Sample:1.08| - Time: 8.97 seconds
+EPOCH[154/2000] loss0.078-|Sample:1.08| - Time: 8.96 seconds
+EPOCH[155/2000] loss0.078-|Sample:0.91| - Time: 9.17 seconds
+TEST RESULTS at EPOCH[156/2000]: {'precision': array([0.18574502, 0.13055406]), 'recall': array([0.25065874, 0.35291845]), 'ndcg': array([0.27003627, 0.31989232])}
+EPOCH[156/2000] loss0.078-|Sample:1.21| - Time: 10.14 seconds
+EPOCH[157/2000] loss0.080-|Sample:0.92| - Time: 8.94 seconds
+EPOCH[158/2000] loss0.077-|Sample:1.12| - Time: 9.28 seconds
+EPOCH[159/2000] loss0.078-|Sample:1.09| - Time: 9.20 seconds
+EPOCH[160/2000] loss0.079-|Sample:0.88| - Time: 8.73 seconds
+TEST RESULTS at EPOCH[161/2000]: {'precision': array([0.18665949, 0.13055406]), 'recall': array([0.25262793, 0.35339105]), 'ndcg': array([0.27140637, 0.32057976])}
+EPOCH[161/2000] loss0.078-|Sample:1.17| - Time: 9.95 seconds
+EPOCH[162/2000] loss0.077-|Sample:1.06| - Time: 8.80 seconds
+EPOCH[163/2000] loss0.079-|Sample:0.89| - Time: 9.03 seconds
+EPOCH[164/2000] loss0.078-|Sample:1.08| - Time: 9.24 seconds
+EPOCH[165/2000] loss0.077-|Sample:0.88| - Time: 9.37 seconds
+TEST RESULTS at EPOCH[166/2000]: {'precision': array([0.18762776, 0.13041958]), 'recall': array([0.25269389, 0.35312551]), 'ndcg': array([0.27303947, 0.32185904])}
+EPOCH[166/2000] loss0.079-|Sample:1.12| - Time: 9.79 seconds
+EPOCH[167/2000] loss0.076-|Sample:1.09| - Time: 9.31 seconds
+EPOCH[168/2000] loss0.079-|Sample:0.87| - Time: 8.86 seconds
+EPOCH[169/2000] loss0.075-|Sample:1.06| - Time: 9.30 seconds
+EPOCH[170/2000] loss0.075-|Sample:0.88| - Time: 8.26 seconds
+TEST RESULTS at EPOCH[171/2000]: {'precision': array([0.18682087, 0.13106509]), 'recall': array([0.25320982, 0.35351251]), 'ndcg': array([0.273122  , 0.32267705])}
+EPOCH[171/2000] loss0.075-|Sample:0.89| - Time: 8.57 seconds
+EPOCH[172/2000] loss0.076-|Sample:1.03| - Time: 8.21 seconds
+EPOCH[173/2000] loss0.075-|Sample:0.90| - Time: 8.93 seconds
+EPOCH[174/2000] loss0.075-|Sample:1.08| - Time: 8.49 seconds
+EPOCH[175/2000] loss0.076-|Sample:1.09| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[176/2000]: {'precision': array([0.18778913, 0.13058096]), 'recall': array([0.25379364, 0.35248512]), 'ndcg': array([0.27294336, 0.32143797])}
+EPOCH[176/2000] loss0.075-|Sample:0.89| - Time: 9.55 seconds
+EPOCH[177/2000] loss0.075-|Sample:1.09| - Time: 8.40 seconds
+EPOCH[178/2000] loss0.076-|Sample:0.88| - Time: 8.88 seconds
+EPOCH[179/2000] loss0.075-|Sample:1.07| - Time: 8.83 seconds
+EPOCH[180/2000] loss0.074-|Sample:0.99| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[181/2000]: {'precision': array([0.187305  , 0.13138784]), 'recall': array([0.25309327, 0.354773  ]), 'ndcg': array([0.27327926, 0.32308945])}
+EPOCH[181/2000] loss0.075-|Sample:0.88| - Time: 9.56 seconds
+EPOCH[182/2000] loss0.073-|Sample:1.15| - Time: 8.78 seconds
+EPOCH[183/2000] loss0.072-|Sample:1.02| - Time: 9.21 seconds
+EPOCH[184/2000] loss0.075-|Sample:0.92| - Time: 9.09 seconds
+EPOCH[185/2000] loss0.074-|Sample:1.10| - Time: 9.31 seconds
+TEST RESULTS at EPOCH[186/2000]: {'precision': array([0.1873588 , 0.13184508]), 'recall': array([0.25266229, 0.35596924]), 'ndcg': array([0.27364852, 0.32424154])}
+EPOCH[186/2000] loss0.075-|Sample:0.86| - Time: 9.23 seconds
+EPOCH[187/2000] loss0.076-|Sample:1.11| - Time: 8.65 seconds
+EPOCH[188/2000] loss0.075-|Sample:1.05| - Time: 8.83 seconds
+EPOCH[189/2000] loss0.072-|Sample:0.88| - Time: 8.88 seconds
+EPOCH[190/2000] loss0.074-|Sample:1.13| - Time: 9.35 seconds
+TEST RESULTS at EPOCH[191/2000]: {'precision': array([0.18854223, 0.13154922]), 'recall': array([0.25446669, 0.35568278]), 'ndcg': array([0.27523943, 0.32461447])}
+EPOCH[191/2000] loss0.073-|Sample:0.90| - Time: 9.53 seconds
+EPOCH[192/2000] loss0.073-|Sample:1.09| - Time: 9.09 seconds
+EPOCH[193/2000] loss0.073-|Sample:1.04| - Time: 8.81 seconds
+EPOCH[194/2000] loss0.072-|Sample:0.93| - Time: 9.02 seconds
+EPOCH[195/2000] loss0.072-|Sample:1.12| - Time: 9.28 seconds
+TEST RESULTS at EPOCH[196/2000]: {'precision': array([0.18913394, 0.13249059]), 'recall': array([0.25536621, 0.35733497]), 'ndcg': array([0.27562472, 0.32570035])}
+EPOCH[196/2000] loss0.072-|Sample:1.17| - Time: 9.91 seconds
+EPOCH[197/2000] loss0.072-|Sample:0.88| - Time: 9.31 seconds
+EPOCH[198/2000] loss0.072-|Sample:1.06| - Time: 8.92 seconds
+EPOCH[199/2000] loss0.071-|Sample:0.89| - Time: 9.06 seconds
+EPOCH[200/2000] loss0.071-|Sample:1.11| - Time: 9.18 seconds
+TEST RESULTS at EPOCH[201/2000]: {'precision': array([0.19220011, 0.13246369]), 'recall': array([0.25873742, 0.35744704]), 'ndcg': array([0.278482  , 0.32658648])}
+EPOCH[201/2000] loss0.073-|Sample:1.11| - Time: 9.52 seconds
+EPOCH[202/2000] loss0.072-|Sample:0.88| - Time: 8.63 seconds
+EPOCH[203/2000] loss0.071-|Sample:1.09| - Time: 9.31 seconds
+EPOCH[204/2000] loss0.072-|Sample:0.94| - Time: 9.39 seconds
+EPOCH[205/2000] loss0.070-|Sample:1.11| - Time: 9.15 seconds
+TEST RESULTS at EPOCH[206/2000]: {'precision': array([0.1894567 , 0.13313609]), 'recall': array([0.25567915, 0.35895451]), 'ndcg': array([0.27624625, 0.32682709])}
+EPOCH[206/2000] loss0.071-|Sample:1.03| - Time: 9.64 seconds
+EPOCH[207/2000] loss0.070-|Sample:0.94| - Time: 8.94 seconds
+EPOCH[208/2000] loss0.072-|Sample:1.07| - Time: 9.30 seconds
+EPOCH[209/2000] loss0.072-|Sample:1.10| - Time: 9.32 seconds
+EPOCH[210/2000] loss0.072-|Sample:0.85| - Time: 9.07 seconds
+TEST RESULTS at EPOCH[211/2000]: {'precision': array([0.19123185, 0.13316299]), 'recall': array([0.25821913, 0.35979768]), 'ndcg': array([0.27889381, 0.32853472])}
+EPOCH[211/2000] loss0.070-|Sample:1.03| - Time: 9.40 seconds
+EPOCH[212/2000] loss0.071-|Sample:0.91| - Time: 9.01 seconds
+EPOCH[213/2000] loss0.070-|Sample:1.38| - Time: 10.07 seconds
+EPOCH[214/2000] loss0.072-|Sample:1.14| - Time: 9.80 seconds
+EPOCH[215/2000] loss0.071-|Sample:0.92| - Time: 9.50 seconds
+TEST RESULTS at EPOCH[216/2000]: {'precision': array([0.19026358, 0.13313609]), 'recall': array([0.25626894, 0.35885781]), 'ndcg': array([0.2771386 , 0.32745156])}
+EPOCH[216/2000] loss0.070-|Sample:1.07| - Time: 10.43 seconds
+EPOCH[217/2000] loss0.070-|Sample:1.06| - Time: 9.81 seconds
+EPOCH[218/2000] loss0.069-|Sample:0.89| - Time: 9.64 seconds
+EPOCH[219/2000] loss0.070-|Sample:1.09| - Time: 9.64 seconds
+EPOCH[220/2000] loss0.070-|Sample:0.92| - Time: 9.53 seconds
+TEST RESULTS at EPOCH[221/2000]: {'precision': array([0.19053254, 0.13337816]), 'recall': array([0.25668007, 0.35981689]), 'ndcg': array([0.27867298, 0.32916544])}
+EPOCH[221/2000] loss0.068-|Sample:1.14| - Time: 10.47 seconds
+EPOCH[222/2000] loss0.068-|Sample:1.14| - Time: 9.74 seconds
+EPOCH[223/2000] loss0.069-|Sample:0.91| - Time: 9.50 seconds
+EPOCH[224/2000] loss0.069-|Sample:1.11| - Time: 9.62 seconds
+EPOCH[225/2000] loss0.070-|Sample:0.90| - Time: 9.44 seconds
+TEST RESULTS at EPOCH[226/2000]: {'precision': array([0.18994083, 0.13353954]), 'recall': array([0.25612038, 0.35949136]), 'ndcg': array([0.27778767, 0.32871725])}
+EPOCH[226/2000] loss0.071-|Sample:0.96| - Time: 10.37 seconds
+EPOCH[227/2000] loss0.070-|Sample:1.12| - Time: 9.81 seconds
+EPOCH[228/2000] loss0.070-|Sample:0.94| - Time: 9.63 seconds
+EPOCH[229/2000] loss0.070-|Sample:1.10| - Time: 9.86 seconds
+EPOCH[230/2000] loss0.068-|Sample:1.10| - Time: 9.77 seconds
+TEST RESULTS at EPOCH[231/2000]: {'precision': array([0.19230769, 0.13324368]), 'recall': array([0.25975435, 0.35902538]), 'ndcg': array([0.27943621, 0.32848772])}
+EPOCH[231/2000] loss0.069-|Sample:0.90| - Time: 10.21 seconds
+EPOCH[232/2000] loss0.069-|Sample:1.10| - Time: 9.61 seconds
+EPOCH[233/2000] loss0.069-|Sample:0.87| - Time: 9.14 seconds
+EPOCH[234/2000] loss0.069-|Sample:1.12| - Time: 9.93 seconds
+EPOCH[235/2000] loss0.068-|Sample:1.07| - Time: 9.69 seconds
+TEST RESULTS at EPOCH[236/2000]: {'precision': array([0.19214632, 0.13359333]), 'recall': array([0.25943586, 0.35988413]), 'ndcg': array([0.28018777, 0.32945526])}
+EPOCH[236/2000] loss0.068-|Sample:0.90| - Time: 10.47 seconds
+EPOCH[237/2000] loss0.068-|Sample:1.10| - Time: 9.87 seconds
+EPOCH[238/2000] loss0.068-|Sample:1.09| - Time: 9.64 seconds
+EPOCH[239/2000] loss0.068-|Sample:0.90| - Time: 9.38 seconds
+EPOCH[240/2000] loss0.067-|Sample:1.09| - Time: 9.55 seconds
+TEST RESULTS at EPOCH[241/2000]: {'precision': array([0.19311458, 0.13413125]), 'recall': array([0.26036784, 0.36156664]), 'ndcg': array([0.28152307, 0.33115871])}
+EPOCH[241/2000] loss0.068-|Sample:0.90| - Time: 10.30 seconds
+EPOCH[242/2000] loss0.068-|Sample:1.07| - Time: 10.13 seconds
+EPOCH[243/2000] loss0.069-|Sample:1.09| - Time: 9.86 seconds
+EPOCH[244/2000] loss0.069-|Sample:0.87| - Time: 9.37 seconds
+EPOCH[245/2000] loss0.068-|Sample:1.12| - Time: 9.61 seconds
+TEST RESULTS at EPOCH[246/2000]: {'precision': array([0.1936525 , 0.13348575]), 'recall': array([0.2606876 , 0.36037189]), 'ndcg': array([0.28174735, 0.3303068 ])}
+EPOCH[246/2000] loss0.067-|Sample:0.90| - Time: 9.79 seconds
+EPOCH[247/2000] loss0.067-|Sample:1.15| - Time: 8.83 seconds
+EPOCH[248/2000] loss0.067-|Sample:0.99| - Time: 9.40 seconds
+EPOCH[249/2000] loss0.067-|Sample:0.89| - Time: 9.36 seconds
+EPOCH[250/2000] loss0.067-|Sample:1.07| - Time: 9.29 seconds
+TEST RESULTS at EPOCH[251/2000]: {'precision': array([0.19354492, 0.13399677]), 'recall': array([0.26155468, 0.36053562]), 'ndcg': array([0.28158772, 0.33041242])}
+EPOCH[251/2000] loss0.068-|Sample:1.10| - Time: 9.75 seconds
+EPOCH[252/2000] loss0.068-|Sample:0.88| - Time: 9.61 seconds
+EPOCH[253/2000] loss0.067-|Sample:1.09| - Time: 9.56 seconds
+EPOCH[254/2000] loss0.067-|Sample:0.88| - Time: 9.04 seconds
+EPOCH[255/2000] loss0.068-|Sample:1.02| - Time: 9.28 seconds
+TEST RESULTS at EPOCH[256/2000]: {'precision': array([0.19263045, 0.13356643]), 'recall': array([0.25985681, 0.36025705]), 'ndcg': array([0.28142114, 0.33075992])}
+EPOCH[256/2000] loss0.067-|Sample:1.12| - Time: 10.28 seconds
+EPOCH[257/2000] loss0.066-|Sample:0.92| - Time: 9.00 seconds
+EPOCH[258/2000] loss0.066-|Sample:1.02| - Time: 9.26 seconds
+EPOCH[259/2000] loss0.067-|Sample:0.89| - Time: 8.89 seconds
+EPOCH[260/2000] loss0.068-|Sample:1.05| - Time: 9.51 seconds
+TEST RESULTS at EPOCH[261/2000]: {'precision': array([0.19263045, 0.13345885]), 'recall': array([0.25947813, 0.36031511]), 'ndcg': array([0.27912503, 0.32840283])}
+EPOCH[261/2000] loss0.066-|Sample:1.06| - Time: 9.96 seconds
+EPOCH[262/2000] loss0.067-|Sample:0.87| - Time: 8.93 seconds
+EPOCH[263/2000] loss0.067-|Sample:1.08| - Time: 9.12 seconds
+EPOCH[264/2000] loss0.066-|Sample:1.10| - Time: 9.48 seconds
+EPOCH[265/2000] loss0.065-|Sample:0.90| - Time: 8.63 seconds
+TEST RESULTS at EPOCH[266/2000]: {'precision': array([0.19311458, 0.13472297]), 'recall': array([0.26037019, 0.3638573 ]), 'ndcg': array([0.27968667, 0.33030191])}
+EPOCH[266/2000] loss0.065-|Sample:1.01| - Time: 9.28 seconds
+EPOCH[267/2000] loss0.065-|Sample:0.89| - Time: 9.04 seconds
+EPOCH[268/2000] loss0.067-|Sample:1.02| - Time: 9.57 seconds
+EPOCH[269/2000] loss0.065-|Sample:1.03| - Time: 9.69 seconds
+EPOCH[270/2000] loss0.066-|Sample:0.93| - Time: 9.74 seconds
+TEST RESULTS at EPOCH[271/2000]: {'precision': array([0.19230769, 0.13464228]), 'recall': array([0.25959126, 0.36307069]), 'ndcg': array([0.27938057, 0.33016621])}
+EPOCH[271/2000] loss0.064-|Sample:1.07| - Time: 9.84 seconds
+EPOCH[272/2000] loss0.065-|Sample:1.02| - Time: 9.24 seconds
+EPOCH[273/2000] loss0.067-|Sample:0.90| - Time: 9.54 seconds
+EPOCH[274/2000] loss0.065-|Sample:1.10| - Time: 9.68 seconds
+EPOCH[275/2000] loss0.067-|Sample:0.89| - Time: 9.33 seconds
+TEST RESULTS at EPOCH[276/2000]: {'precision': array([0.19123185, 0.13421194]), 'recall': array([0.25828915, 0.36256222]), 'ndcg': array([0.28078649, 0.33182456])}
+EPOCH[276/2000] loss0.067-|Sample:1.03| - Time: 9.95 seconds
+EPOCH[277/2000] loss0.066-|Sample:1.01| - Time: 9.64 seconds
+EPOCH[278/2000] loss0.065-|Sample:0.89| - Time: 9.14 seconds
+EPOCH[279/2000] loss0.065-|Sample:1.08| - Time: 9.60 seconds
+EPOCH[280/2000] loss0.066-|Sample:0.91| - Time: 9.53 seconds
+TEST RESULTS at EPOCH[281/2000]: {'precision': array([0.19139322, 0.13353954]), 'recall': array([0.25833227, 0.36076808]), 'ndcg': array([0.28007692, 0.33016019])}
+EPOCH[281/2000] loss0.065-|Sample:0.91| - Time: 10.15 seconds
+EPOCH[282/2000] loss0.066-|Sample:1.07| - Time: 9.71 seconds
+EPOCH[283/2000] loss0.067-|Sample:0.95| - Time: 9.52 seconds
+EPOCH[284/2000] loss0.066-|Sample:1.08| - Time: 9.59 seconds
+EPOCH[285/2000] loss0.066-|Sample:1.15| - Time: 9.98 seconds
+TEST RESULTS at EPOCH[286/2000]: {'precision': array([0.19069392, 0.1337816 ]), 'recall': array([0.25744   , 0.36090918]), 'ndcg': array([0.27811573, 0.3289505 ])}
+EPOCH[286/2000] loss0.065-|Sample:0.91| - Time: 9.98 seconds
+EPOCH[287/2000] loss0.065-|Sample:1.11| - Time: 9.71 seconds
+EPOCH[288/2000] loss0.064-|Sample:0.91| - Time: 9.41 seconds
+EPOCH[289/2000] loss0.065-|Sample:1.07| - Time: 9.36 seconds
+EPOCH[290/2000] loss0.065-|Sample:1.04| - Time: 9.68 seconds
+TEST RESULTS at EPOCH[291/2000]: {'precision': array([0.18961807, 0.1338085 ]), 'recall': array([0.25634686, 0.36078814]), 'ndcg': array([0.27635058, 0.32772402])}
+EPOCH[291/2000] loss0.065-|Sample:0.98| - Time: 9.98 seconds
+EPOCH[292/2000] loss0.064-|Sample:1.08| - Time: 9.67 seconds
+EPOCH[293/2000] loss0.066-|Sample:1.10| - Time: 9.55 seconds
+EPOCH[294/2000] loss0.066-|Sample:0.91| - Time: 8.89 seconds
+EPOCH[295/2000] loss0.065-|Sample:1.10| - Time: 9.61 seconds
+TEST RESULTS at EPOCH[296/2000]: {'precision': array([0.19139322, 0.13442711]), 'recall': array([0.25773287, 0.36255048]), 'ndcg': array([0.27910964, 0.33037071])}
+EPOCH[296/2000] loss0.064-|Sample:0.95| - Time: 10.25 seconds
+EPOCH[297/2000] loss0.064-|Sample:1.02| - Time: 9.56 seconds
+EPOCH[298/2000] loss0.063-|Sample:1.07| - Time: 9.29 seconds
+EPOCH[299/2000] loss0.064-|Sample:0.94| - Time: 9.51 seconds
+EPOCH[300/2000] loss0.064-|Sample:1.12| - Time: 9.68 seconds
+TEST RESULTS at EPOCH[301/2000]: {'precision': array([0.19080151, 0.13418505]), 'recall': array([0.25749229, 0.36197307]), 'ndcg': array([0.27844716, 0.32973421])}
+EPOCH[301/2000] loss0.065-|Sample:0.86| - Time: 10.05 seconds
+EPOCH[302/2000] loss0.064-|Sample:1.03| - Time: 9.72 seconds
+EPOCH[303/2000] loss0.064-|Sample:1.09| - Time: 9.47 seconds
+EPOCH[304/2000] loss0.063-|Sample:0.96| - Time: 9.69 seconds
+EPOCH[305/2000] loss0.063-|Sample:1.05| - Time: 9.68 seconds
+TEST RESULTS at EPOCH[306/2000]: {'precision': array([0.19289941, 0.13542227]), 'recall': array([0.26027199, 0.36550672]), 'ndcg': array([0.28237733, 0.33400402])}
+EPOCH[306/2000] loss0.067-|Sample:1.14| - Time: 9.82 seconds
+EPOCH[307/2000] loss0.064-|Sample:0.89| - Time: 8.84 seconds
+EPOCH[308/2000] loss0.065-|Sample:1.11| - Time: 9.77 seconds
+EPOCH[309/2000] loss0.064-|Sample:0.87| - Time: 9.48 seconds
+EPOCH[310/2000] loss0.065-|Sample:1.02| - Time: 9.13 seconds
+TEST RESULTS at EPOCH[311/2000]: {'precision': array([0.19370629, 0.13612157]), 'recall': array([0.26188406, 0.36738454]), 'ndcg': array([0.28340745, 0.33513663])}
+EPOCH[311/2000] loss0.066-|Sample:1.07| - Time: 9.82 seconds
+EPOCH[312/2000] loss0.065-|Sample:0.94| - Time: 9.61 seconds
+EPOCH[313/2000] loss0.064-|Sample:1.10| - Time: 9.97 seconds
+EPOCH[314/2000] loss0.063-|Sample:0.89| - Time: 9.20 seconds
+EPOCH[315/2000] loss0.064-|Sample:1.05| - Time: 9.66 seconds
+TEST RESULTS at EPOCH[316/2000]: {'precision': array([0.19402905, 0.13585261]), 'recall': array([0.26249434, 0.3657761 ]), 'ndcg': array([0.28380037, 0.33480939])}
+EPOCH[316/2000] loss0.064-|Sample:1.05| - Time: 10.05 seconds
+EPOCH[317/2000] loss0.062-|Sample:0.89| - Time: 8.71 seconds
+EPOCH[318/2000] loss0.062-|Sample:1.02| - Time: 8.79 seconds
+EPOCH[319/2000] loss0.063-|Sample:1.02| - Time: 9.49 seconds
+EPOCH[320/2000] loss0.064-|Sample:1.04| - Time: 9.84 seconds
+TEST RESULTS at EPOCH[321/2000]: {'precision': array([0.19402905, 0.13569123]), 'recall': array([0.26254323, 0.36588326]), 'ndcg': array([0.28269369, 0.33354991])}
+EPOCH[321/2000] loss0.063-|Sample:1.10| - Time: 10.13 seconds
+EPOCH[322/2000] loss0.063-|Sample:0.89| - Time: 9.41 seconds
+EPOCH[323/2000] loss0.062-|Sample:1.07| - Time: 9.75 seconds
+EPOCH[324/2000] loss0.062-|Sample:1.05| - Time: 9.37 seconds
+EPOCH[325/2000] loss0.064-|Sample:0.91| - Time: 9.36 seconds
+TEST RESULTS at EPOCH[326/2000]: {'precision': array([0.19203873, 0.13536848]), 'recall': array([0.25977975, 0.3656698 ]), 'ndcg': array([0.28105971, 0.33318209])}
+EPOCH[326/2000] loss0.062-|Sample:1.08| - Time: 9.22 seconds
+EPOCH[327/2000] loss0.062-|Sample:1.16| - Time: 8.98 seconds
+EPOCH[328/2000] loss0.064-|Sample:0.87| - Time: 8.57 seconds
+EPOCH[329/2000] loss0.063-|Sample:1.13| - Time: 9.55 seconds
+EPOCH[330/2000] loss0.063-|Sample:0.94| - Time: 9.56 seconds
+TEST RESULTS at EPOCH[331/2000]: {'precision': array([0.19408284, 0.13574502]), 'recall': array([0.26274772, 0.36633345]), 'ndcg': array([0.28247967, 0.3336195 ])}
+EPOCH[331/2000] loss0.062-|Sample:1.12| - Time: 10.26 seconds
+EPOCH[332/2000] loss0.065-|Sample:1.05| - Time: 9.88 seconds
+EPOCH[333/2000] loss0.062-|Sample:0.87| - Time: 8.99 seconds
+EPOCH[334/2000] loss0.063-|Sample:1.10| - Time: 9.37 seconds
+EPOCH[335/2000] loss0.062-|Sample:0.89| - Time: 9.03 seconds
+TEST RESULTS at EPOCH[336/2000]: {'precision': array([0.19359871, 0.13544917]), 'recall': array([0.26228985, 0.36554172]), 'ndcg': array([0.28222428, 0.33324841])}
+EPOCH[336/2000] loss0.062-|Sample:0.92| - Time: 9.81 seconds
+EPOCH[337/2000] loss0.063-|Sample:1.19| - Time: 9.08 seconds
+EPOCH[338/2000] loss0.063-|Sample:0.91| - Time: 9.23 seconds
+EPOCH[339/2000] loss0.062-|Sample:1.18| - Time: 9.09 seconds
+EPOCH[340/2000] loss0.061-|Sample:1.04| - Time: 8.67 seconds
+TEST RESULTS at EPOCH[341/2000]: {'precision': array([0.19612695, 0.13612157]), 'recall': array([0.26514383, 0.36818993]), 'ndcg': array([0.28422243, 0.33473457])}
+EPOCH[341/2000] loss0.062-|Sample:0.88| - Time: 9.38 seconds
+EPOCH[342/2000] loss0.062-|Sample:1.13| - Time: 9.43 seconds
+EPOCH[343/2000] loss0.063-|Sample:0.89| - Time: 8.43 seconds
+EPOCH[344/2000] loss0.062-|Sample:1.08| - Time: 8.61 seconds
+EPOCH[345/2000] loss0.063-|Sample:1.03| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[346/2000]: {'precision': array([0.19397526, 0.13596019]), 'recall': array([0.2625349 , 0.36737685]), 'ndcg': array([0.28459273, 0.33613783])}
+EPOCH[346/2000] loss0.062-|Sample:0.90| - Time: 9.33 seconds
+EPOCH[347/2000] loss0.064-|Sample:1.15| - Time: 8.82 seconds
+EPOCH[348/2000] loss0.062-|Sample:1.13| - Time: 8.90 seconds
+EPOCH[349/2000] loss0.062-|Sample:0.91| - Time: 8.60 seconds
+EPOCH[350/2000] loss0.061-|Sample:1.08| - Time: 8.82 seconds
+TEST RESULTS at EPOCH[351/2000]: {'precision': array([0.19499731, 0.13598709]), 'recall': array([0.26455041, 0.36784177]), 'ndcg': array([0.28470403, 0.33544013])}
+EPOCH[351/2000] loss0.061-|Sample:0.93| - Time: 9.48 seconds
+EPOCH[352/2000] loss0.063-|Sample:1.08| - Time: 9.00 seconds
+EPOCH[353/2000] loss0.063-|Sample:1.10| - Time: 9.02 seconds
+EPOCH[354/2000] loss0.061-|Sample:0.89| - Time: 9.06 seconds
+EPOCH[355/2000] loss0.061-|Sample:1.12| - Time: 8.70 seconds
+TEST RESULTS at EPOCH[356/2000]: {'precision': array([0.19322216, 0.13585261]), 'recall': array([0.26140377, 0.36698878]), 'ndcg': array([0.28262752, 0.33446076])}
+EPOCH[356/2000] loss0.062-|Sample:0.90| - Time: 9.01 seconds
+EPOCH[357/2000] loss0.061-|Sample:1.07| - Time: 9.10 seconds
+EPOCH[358/2000] loss0.062-|Sample:1.05| - Time: 9.02 seconds
+EPOCH[359/2000] loss0.060-|Sample:0.89| - Time: 8.75 seconds
+EPOCH[360/2000] loss0.061-|Sample:1.09| - Time: 8.74 seconds
+TEST RESULTS at EPOCH[361/2000]: {'precision': array([0.19634212, 0.13652501]), 'recall': array([0.2654081 , 0.36867342]), 'ndcg': array([0.28473674, 0.33528516])}
+EPOCH[361/2000] loss0.061-|Sample:1.04| - Time: 8.64 seconds
+EPOCH[362/2000] loss0.060-|Sample:0.91| - Time: 8.36 seconds
+EPOCH[363/2000] loss0.061-|Sample:1.09| - Time: 8.63 seconds
+EPOCH[364/2000] loss0.062-|Sample:0.89| - Time: 9.41 seconds
+EPOCH[365/2000] loss0.062-|Sample:1.09| - Time: 9.35 seconds
+TEST RESULTS at EPOCH[366/2000]: {'precision': array([0.19381388, 0.13569123]), 'recall': array([0.26191714, 0.3666101 ]), 'ndcg': array([0.28417496, 0.33561454])}
+EPOCH[366/2000] loss0.062-|Sample:1.09| - Time: 9.22 seconds
+EPOCH[367/2000] loss0.061-|Sample:0.94| - Time: 8.68 seconds
+EPOCH[368/2000] loss0.060-|Sample:1.06| - Time: 8.38 seconds
+EPOCH[369/2000] loss0.061-|Sample:0.95| - Time: 8.85 seconds
+EPOCH[370/2000] loss0.061-|Sample:1.20| - Time: 9.05 seconds
+TEST RESULTS at EPOCH[371/2000]: {'precision': array([0.19440559, 0.13596019]), 'recall': array([0.26312192, 0.36731089]), 'ndcg': array([0.28240882, 0.33363293])}
+EPOCH[371/2000] loss0.062-|Sample:1.06| - Time: 9.58 seconds
+EPOCH[372/2000] loss0.060-|Sample:0.91| - Time: 8.95 seconds
+EPOCH[373/2000] loss0.062-|Sample:1.10| - Time: 8.69 seconds
+EPOCH[374/2000] loss0.062-|Sample:1.10| - Time: 8.63 seconds
+EPOCH[375/2000] loss0.061-|Sample:0.89| - Time: 8.08 seconds
+TEST RESULTS at EPOCH[376/2000]: {'precision': array([0.19413663, 0.13601399]), 'recall': array([0.26249071, 0.36698558]), 'ndcg': array([0.28269475, 0.33415992])}
+EPOCH[376/2000] loss0.060-|Sample:1.05| - Time: 9.28 seconds
+EPOCH[377/2000] loss0.061-|Sample:0.89| - Time: 8.79 seconds
+EPOCH[378/2000] loss0.060-|Sample:1.11| - Time: 9.24 seconds
+EPOCH[379/2000] loss0.061-|Sample:1.06| - Time: 8.95 seconds
+EPOCH[380/2000] loss0.060-|Sample:0.90| - Time: 8.86 seconds
+TEST RESULTS at EPOCH[381/2000]: {'precision': array([0.19263045, 0.13622916]), 'recall': array([0.2604434 , 0.36783494]), 'ndcg': array([0.28180353, 0.33459609])}
+EPOCH[381/2000] loss0.061-|Sample:1.07| - Time: 9.38 seconds
+EPOCH[382/2000] loss0.060-|Sample:1.11| - Time: 9.28 seconds
+EPOCH[383/2000] loss0.060-|Sample:0.89| - Time: 9.06 seconds
+EPOCH[384/2000] loss0.061-|Sample:1.05| - Time: 9.28 seconds
+EPOCH[385/2000] loss0.061-|Sample:0.87| - Time: 8.98 seconds
+TEST RESULTS at EPOCH[386/2000]: {'precision': array([0.19472835, 0.13639053]), 'recall': array([0.26391365, 0.36924593]), 'ndcg': array([0.28359827, 0.33519179])}
+EPOCH[386/2000] loss0.060-|Sample:1.08| - Time: 9.18 seconds
+EPOCH[387/2000] loss0.062-|Sample:1.08| - Time: 9.03 seconds
+EPOCH[388/2000] loss0.059-|Sample:0.97| - Time: 9.15 seconds
+EPOCH[389/2000] loss0.061-|Sample:1.08| - Time: 9.27 seconds
+EPOCH[390/2000] loss0.060-|Sample:0.89| - Time: 8.76 seconds
+TEST RESULTS at EPOCH[391/2000]: {'precision': array([0.19445939, 0.13609467]), 'recall': array([0.26308158, 0.36749874]), 'ndcg': array([0.28453416, 0.33583756])}
+EPOCH[391/2000] loss0.060-|Sample:0.88| - Time: 9.57 seconds
+EPOCH[392/2000] loss0.060-|Sample:1.08| - Time: 8.56 seconds
+EPOCH[393/2000] loss0.060-|Sample:0.91| - Time: 8.34 seconds
+EPOCH[394/2000] loss0.061-|Sample:1.07| - Time: 9.34 seconds
+EPOCH[395/2000] loss0.061-|Sample:1.09| - Time: 9.33 seconds
+TEST RESULTS at EPOCH[396/2000]: {'precision': array([0.1951049 , 0.13679398]), 'recall': array([0.26416703, 0.36972408]), 'ndcg': array([0.28364947, 0.33565663])}
+EPOCH[396/2000] loss0.060-|Sample:0.88| - Time: 9.71 seconds
+EPOCH[397/2000] loss0.060-|Sample:1.09| - Time: 8.94 seconds
+EPOCH[398/2000] loss0.063-|Sample:0.89| - Time: 8.41 seconds
+EPOCH[399/2000] loss0.061-|Sample:1.09| - Time: 8.97 seconds
+EPOCH[400/2000] loss0.060-|Sample:1.07| - Time: 8.68 seconds
+TEST RESULTS at EPOCH[401/2000]: {'precision': array([0.19413663, 0.13679398]), 'recall': array([0.26360413, 0.36989421]), 'ndcg': array([0.28324232, 0.33566345])}
+EPOCH[401/2000] loss0.062-|Sample:0.86| - Time: 9.66 seconds
+EPOCH[402/2000] loss0.060-|Sample:0.99| - Time: 8.87 seconds
+EPOCH[403/2000] loss0.060-|Sample:1.10| - Time: 9.18 seconds
+EPOCH[404/2000] loss0.060-|Sample:0.92| - Time: 8.76 seconds
+EPOCH[405/2000] loss0.061-|Sample:1.08| - Time: 8.79 seconds
+TEST RESULTS at EPOCH[406/2000]: {'precision': array([0.19553523, 0.13542227]), 'recall': array([0.26568133, 0.36704321]), 'ndcg': array([0.28364219, 0.33340227])}
+EPOCH[406/2000] loss0.061-|Sample:0.88| - Time: 9.33 seconds
+EPOCH[407/2000] loss0.060-|Sample:1.08| - Time: 8.60 seconds
+EPOCH[408/2000] loss0.061-|Sample:1.07| - Time: 8.65 seconds
+EPOCH[409/2000] loss0.059-|Sample:0.93| - Time: 9.11 seconds
+EPOCH[410/2000] loss0.060-|Sample:1.08| - Time: 9.04 seconds
+TEST RESULTS at EPOCH[411/2000]: {'precision': array([0.19548144, 0.13614847]), 'recall': array([0.26486377, 0.36780933]), 'ndcg': array([0.28380682, 0.33445445])}
+EPOCH[411/2000] loss0.060-|Sample:0.88| - Time: 9.28 seconds
+EPOCH[412/2000] loss0.060-|Sample:1.01| - Time: 8.41 seconds
+EPOCH[413/2000] loss0.061-|Sample:1.03| - Time: 8.53 seconds
+EPOCH[414/2000] loss0.061-|Sample:0.90| - Time: 8.30 seconds
+EPOCH[415/2000] loss0.060-|Sample:1.04| - Time: 8.60 seconds
+TEST RESULTS at EPOCH[416/2000]: {'precision': array([0.19397526, 0.13633674]), 'recall': array([0.2626523, 0.3681784]), 'ndcg': array([0.28260022, 0.33444783])}
+EPOCH[416/2000] loss0.059-|Sample:1.02| - Time: 9.14 seconds
+EPOCH[417/2000] loss0.059-|Sample:0.91| - Time: 8.89 seconds
+EPOCH[418/2000] loss0.059-|Sample:1.08| - Time: 8.65 seconds
+EPOCH[419/2000] loss0.059-|Sample:0.93| - Time: 8.00 seconds
+EPOCH[420/2000] loss0.060-|Sample:1.12| - Time: 8.55 seconds
+TEST RESULTS at EPOCH[421/2000]: {'precision': array([0.19569661, 0.1366326 ]), 'recall': array([0.26566916, 0.36902435]), 'ndcg': array([0.2859723 , 0.33704472])}
+EPOCH[421/2000] loss0.059-|Sample:1.08| - Time: 9.42 seconds
+EPOCH[422/2000] loss0.059-|Sample:0.89| - Time: 8.73 seconds
+EPOCH[423/2000] loss0.060-|Sample:1.09| - Time: 8.83 seconds
+EPOCH[424/2000] loss0.060-|Sample:0.91| - Time: 8.36 seconds
+EPOCH[425/2000] loss0.059-|Sample:1.08| - Time: 8.05 seconds
+TEST RESULTS at EPOCH[426/2000]: {'precision': array([0.19456697, 0.13665949]), 'recall': array([0.26307923, 0.36981139]), 'ndcg': array([0.28391526, 0.33626572])}
+EPOCH[426/2000] loss0.060-|Sample:1.03| - Time: 9.01 seconds
+EPOCH[427/2000] loss0.060-|Sample:0.88| - Time: 8.63 seconds
+EPOCH[428/2000] loss0.060-|Sample:1.10| - Time: 9.11 seconds
+EPOCH[429/2000] loss0.059-|Sample:1.09| - Time: 8.98 seconds
+EPOCH[430/2000] loss0.059-|Sample:0.93| - Time: 8.78 seconds
+TEST RESULTS at EPOCH[431/2000]: {'precision': array([0.19661108, 0.13579882]), 'recall': array([0.26638895, 0.36691684]), 'ndcg': array([0.28545295, 0.33495693])}
+EPOCH[431/2000] loss0.060-|Sample:1.09| - Time: 9.43 seconds
+EPOCH[432/2000] loss0.059-|Sample:0.93| - Time: 8.20 seconds
+EPOCH[433/2000] loss0.060-|Sample:1.08| - Time: 8.88 seconds
+EPOCH[434/2000] loss0.060-|Sample:1.08| - Time: 9.34 seconds
+EPOCH[435/2000] loss0.058-|Sample:0.89| - Time: 8.60 seconds
+TEST RESULTS at EPOCH[436/2000]: {'precision': array([0.19494352, 0.13657881]), 'recall': array([0.2640857 , 0.36918338]), 'ndcg': array([0.28400126, 0.33572771])}
+EPOCH[436/2000] loss0.058-|Sample:1.08| - Time: 9.03 seconds
+EPOCH[437/2000] loss0.061-|Sample:1.03| - Time: 8.78 seconds
+EPOCH[438/2000] loss0.059-|Sample:0.88| - Time: 8.77 seconds
+EPOCH[439/2000] loss0.059-|Sample:1.07| - Time: 9.13 seconds
+EPOCH[440/2000] loss0.059-|Sample:0.93| - Time: 8.80 seconds
+TEST RESULTS at EPOCH[441/2000]: {'precision': array([0.19688004, 0.13687466]), 'recall': array([0.26689294, 0.37092523]), 'ndcg': array([0.28683169, 0.33789665])}
+EPOCH[441/2000] loss0.059-|Sample:1.02| - Time: 9.46 seconds
+EPOCH[442/2000] loss0.057-|Sample:1.11| - Time: 9.08 seconds
+EPOCH[443/2000] loss0.060-|Sample:0.87| - Time: 8.82 seconds
+EPOCH[444/2000] loss0.059-|Sample:1.06| - Time: 8.84 seconds
+EPOCH[445/2000] loss0.059-|Sample:0.86| - Time: 8.54 seconds
+TEST RESULTS at EPOCH[446/2000]: {'precision': array([0.19682625, 0.13617536]), 'recall': array([0.26768701, 0.36853894]), 'ndcg': array([0.2877182, 0.3375536])}
+EPOCH[446/2000] loss0.058-|Sample:0.88| - Time: 9.14 seconds
+EPOCH[447/2000] loss0.059-|Sample:1.06| - Time: 8.91 seconds
+EPOCH[448/2000] loss0.060-|Sample:0.88| - Time: 8.94 seconds
+EPOCH[449/2000] loss0.058-|Sample:1.11| - Time: 9.10 seconds
+EPOCH[450/2000] loss0.058-|Sample:1.12| - Time: 9.18 seconds
+TEST RESULTS at EPOCH[451/2000]: {'precision': array([0.19585799, 0.13665949]), 'recall': array([0.26441998, 0.36979388]), 'ndcg': array([0.28496358, 0.33642564])}
+EPOCH[451/2000] loss0.059-|Sample:0.89| - Time: 8.96 seconds
+EPOCH[452/2000] loss0.060-|Sample:1.08| - Time: 8.73 seconds
+EPOCH[453/2000] loss0.060-|Sample:0.97| - Time: 8.81 seconds
+EPOCH[454/2000] loss0.058-|Sample:1.06| - Time: 8.77 seconds
+EPOCH[455/2000] loss0.060-|Sample:1.02| - Time: 8.61 seconds
+TEST RESULTS at EPOCH[456/2000]: {'precision': array([0.19494352, 0.13571813]), 'recall': array([0.26414824, 0.36631744]), 'ndcg': array([0.28391674, 0.33436417])}
+EPOCH[456/2000] loss0.058-|Sample:0.85| - Time: 8.73 seconds
+EPOCH[457/2000] loss0.058-|Sample:1.06| - Time: 8.96 seconds
+EPOCH[458/2000] loss0.060-|Sample:1.11| - Time: 8.83 seconds
+EPOCH[459/2000] loss0.059-|Sample:0.89| - Time: 9.12 seconds
+EPOCH[460/2000] loss0.059-|Sample:1.10| - Time: 8.85 seconds
+TEST RESULTS at EPOCH[461/2000]: {'precision': array([0.19623453, 0.13633674]), 'recall': array([0.26527682, 0.36872849]), 'ndcg': array([0.28583421, 0.3367107 ])}
+EPOCH[461/2000] loss0.060-|Sample:0.91| - Time: 8.70 seconds
+EPOCH[462/2000] loss0.060-|Sample:1.04| - Time: 8.58 seconds
+EPOCH[463/2000] loss0.060-|Sample:1.00| - Time: 8.62 seconds
+EPOCH[464/2000] loss0.059-|Sample:0.88| - Time: 8.46 seconds
+EPOCH[465/2000] loss0.057-|Sample:1.07| - Time: 9.26 seconds
+TEST RESULTS at EPOCH[466/2000]: {'precision': array([0.19822485, 0.13649812]), 'recall': array([0.26751603, 0.36921775]), 'ndcg': array([0.28818217, 0.33797247])}
+EPOCH[466/2000] loss0.058-|Sample:0.88| - Time: 9.27 seconds
+EPOCH[467/2000] loss0.059-|Sample:1.05| - Time: 8.89 seconds
+EPOCH[468/2000] loss0.059-|Sample:1.05| - Time: 8.83 seconds
+EPOCH[469/2000] loss0.058-|Sample:0.87| - Time: 8.99 seconds
+EPOCH[470/2000] loss0.059-|Sample:1.04| - Time: 9.01 seconds
+TEST RESULTS at EPOCH[471/2000]: {'precision': array([0.19677246, 0.1366057 ]), 'recall': array([0.2664643 , 0.36904612]), 'ndcg': array([0.28684778, 0.33728231])}
+EPOCH[471/2000] loss0.059-|Sample:1.14| - Time: 9.50 seconds
+EPOCH[472/2000] loss0.057-|Sample:0.92| - Time: 8.62 seconds
+EPOCH[473/2000] loss0.059-|Sample:1.18| - Time: 9.22 seconds
+EPOCH[474/2000] loss0.059-|Sample:0.88| - Time: 8.67 seconds
+EPOCH[475/2000] loss0.059-|Sample:1.09| - Time: 9.42 seconds
+TEST RESULTS at EPOCH[476/2000]: {'precision': array([0.19628833, 0.13644432]), 'recall': array([0.2659537 , 0.36828385]), 'ndcg': array([0.28727065, 0.33770132])}
+EPOCH[476/2000] loss0.058-|Sample:1.10| - Time: 9.53 seconds
+EPOCH[477/2000] loss0.059-|Sample:0.92| - Time: 8.74 seconds
+EPOCH[478/2000] loss0.059-|Sample:1.10| - Time: 9.18 seconds
+EPOCH[479/2000] loss0.058-|Sample:0.86| - Time: 8.39 seconds
+EPOCH[480/2000] loss0.059-|Sample:1.08| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[481/2000]: {'precision': array([0.19526627, 0.13628295]), 'recall': array([0.26541407, 0.36833957]), 'ndcg': array([0.2832138 , 0.33397105])}
+EPOCH[481/2000] loss0.059-|Sample:1.03| - Time: 9.15 seconds
+EPOCH[482/2000] loss0.058-|Sample:0.89| - Time: 8.68 seconds
+EPOCH[483/2000] loss0.059-|Sample:1.08| - Time: 9.02 seconds
+EPOCH[484/2000] loss0.057-|Sample:1.16| - Time: 8.94 seconds
+EPOCH[485/2000] loss0.059-|Sample:0.95| - Time: 9.12 seconds
+TEST RESULTS at EPOCH[486/2000]: {'precision': array([0.19747176, 0.13743948]), 'recall': array([0.2678945 , 0.37231486]), 'ndcg': array([0.28736463, 0.3384796 ])}
+EPOCH[486/2000] loss0.058-|Sample:1.14| - Time: 9.87 seconds
+EPOCH[487/2000] loss0.059-|Sample:0.87| - Time: 8.73 seconds
+EPOCH[488/2000] loss0.058-|Sample:1.13| - Time: 9.21 seconds
+EPOCH[489/2000] loss0.057-|Sample:1.08| - Time: 9.01 seconds
+EPOCH[490/2000] loss0.058-|Sample:0.88| - Time: 8.95 seconds
+TEST RESULTS at EPOCH[491/2000]: {'precision': array([0.1964497 , 0.13746638]), 'recall': array([0.26612597, 0.37213684]), 'ndcg': array([0.28657869, 0.33853614])}
+EPOCH[491/2000] loss0.059-|Sample:1.18| - Time: 9.78 seconds
+EPOCH[492/2000] loss0.058-|Sample:1.11| - Time: 9.12 seconds
+EPOCH[493/2000] loss0.059-|Sample:0.88| - Time: 8.61 seconds
+EPOCH[494/2000] loss0.059-|Sample:1.12| - Time: 8.76 seconds
+EPOCH[495/2000] loss0.058-|Sample:0.93| - Time: 9.26 seconds
+TEST RESULTS at EPOCH[496/2000]: {'precision': array([0.19558903, 0.13700914]), 'recall': array([0.26484584, 0.37104263]), 'ndcg': array([0.28467173, 0.33671013])}
+EPOCH[496/2000] loss0.058-|Sample:1.10| - Time: 9.60 seconds
+EPOCH[497/2000] loss0.057-|Sample:1.08| - Time: 8.90 seconds
+EPOCH[498/2000] loss0.058-|Sample:0.90| - Time: 8.73 seconds
+EPOCH[499/2000] loss0.058-|Sample:1.08| - Time: 8.96 seconds
+EPOCH[500/2000] loss0.060-|Sample:0.93| - Time: 8.72 seconds
+TEST RESULTS at EPOCH[501/2000]: {'precision': array([0.19618074, 0.13706294]), 'recall': array([0.2666387 , 0.37088424]), 'ndcg': array([0.2855551 , 0.33694653])}
+EPOCH[501/2000] loss0.058-|Sample:0.89| - Time: 9.18 seconds
+EPOCH[502/2000] loss0.057-|Sample:1.03| - Time: 8.88 seconds
+EPOCH[503/2000] loss0.058-|Sample:0.88| - Time: 8.80 seconds
+EPOCH[504/2000] loss0.059-|Sample:1.19| - Time: 8.99 seconds
+EPOCH[505/2000] loss0.058-|Sample:1.05| - Time: 8.55 seconds
+TEST RESULTS at EPOCH[506/2000]: {'precision': array([0.19752555, 0.13749328]), 'recall': array([0.26839507, 0.37230825]), 'ndcg': array([0.28654836, 0.33777619])}
+EPOCH[506/2000] loss0.058-|Sample:0.87| - Time: 9.36 seconds
+EPOCH[507/2000] loss0.059-|Sample:1.11| - Time: 9.08 seconds
+EPOCH[508/2000] loss0.058-|Sample:0.91| - Time: 8.73 seconds
+EPOCH[509/2000] loss0.058-|Sample:1.08| - Time: 8.99 seconds
+EPOCH[510/2000] loss0.056-|Sample:1.06| - Time: 8.35 seconds
+TEST RESULTS at EPOCH[511/2000]: {'precision': array([0.1950511 , 0.13655191]), 'recall': array([0.26407588, 0.3696769 ]), 'ndcg': array([0.28425719, 0.33611978])}
+EPOCH[511/2000] loss0.057-|Sample:0.91| - Time: 9.53 seconds
+EPOCH[512/2000] loss0.057-|Sample:1.11| - Time: 8.95 seconds
+EPOCH[513/2000] loss0.057-|Sample:1.07| - Time: 8.74 seconds
+EPOCH[514/2000] loss0.058-|Sample:0.89| - Time: 8.83 seconds
+EPOCH[515/2000] loss0.058-|Sample:1.07| - Time: 8.82 seconds
+TEST RESULTS at EPOCH[516/2000]: {'precision': array([0.19515869, 0.13700914]), 'recall': array([0.26503048, 0.37097134]), 'ndcg': array([0.28366096, 0.33584187])}
+EPOCH[516/2000] loss0.057-|Sample:0.86| - Time: 9.28 seconds
+EPOCH[517/2000] loss0.057-|Sample:1.12| - Time: 9.12 seconds
+EPOCH[518/2000] loss0.058-|Sample:1.11| - Time: 9.31 seconds
+EPOCH[519/2000] loss0.057-|Sample:0.86| - Time: 9.03 seconds
+EPOCH[520/2000] loss0.057-|Sample:1.11| - Time: 8.46 seconds
+TEST RESULTS at EPOCH[521/2000]: {'precision': array([0.19596557, 0.13614847]), 'recall': array([0.26597313, 0.36855751]), 'ndcg': array([0.28355125, 0.33413694])}
+EPOCH[521/2000] loss0.057-|Sample:0.91| - Time: 9.48 seconds
+EPOCH[522/2000] loss0.058-|Sample:1.13| - Time: 9.51 seconds
+EPOCH[523/2000] loss0.058-|Sample:1.07| - Time: 8.89 seconds
+EPOCH[524/2000] loss0.058-|Sample:0.88| - Time: 9.00 seconds
+EPOCH[525/2000] loss0.058-|Sample:1.10| - Time: 8.80 seconds
+TEST RESULTS at EPOCH[526/2000]: {'precision': array([0.19731038, 0.13676708]), 'recall': array([0.26826827, 0.37039734]), 'ndcg': array([0.28638539, 0.33675912])}
+EPOCH[526/2000] loss0.058-|Sample:1.07| - Time: 9.32 seconds
+EPOCH[527/2000] loss0.057-|Sample:0.90| - Time: 8.90 seconds
+EPOCH[528/2000] loss0.058-|Sample:1.12| - Time: 8.91 seconds
+EPOCH[529/2000] loss0.057-|Sample:0.90| - Time: 8.68 seconds
+EPOCH[530/2000] loss0.057-|Sample:1.08| - Time: 9.16 seconds
+TEST RESULTS at EPOCH[531/2000]: {'precision': array([0.19725659, 0.13703604]), 'recall': array([0.26680499, 0.37125908]), 'ndcg': array([0.28536263, 0.33644485])}
+EPOCH[531/2000] loss0.058-|Sample:1.12| - Time: 9.79 seconds
+EPOCH[532/2000] loss0.057-|Sample:0.87| - Time: 8.46 seconds
+EPOCH[533/2000] loss0.058-|Sample:1.07| - Time: 8.75 seconds
+EPOCH[534/2000] loss0.057-|Sample:0.87| - Time: 8.93 seconds
+EPOCH[535/2000] loss0.057-|Sample:1.04| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[536/2000]: {'precision': array([0.19747176, 0.13690156]), 'recall': array([0.26823454, 0.37005772]), 'ndcg': array([0.28632004, 0.33661291])}
+EPOCH[536/2000] loss0.057-|Sample:1.13| - Time: 9.95 seconds
+EPOCH[537/2000] loss0.058-|Sample:0.88| - Time: 8.61 seconds
+EPOCH[538/2000] loss0.056-|Sample:1.06| - Time: 8.70 seconds
+EPOCH[539/2000] loss0.057-|Sample:1.18| - Time: 9.17 seconds
+EPOCH[540/2000] loss0.057-|Sample:0.87| - Time: 8.53 seconds
+TEST RESULTS at EPOCH[541/2000]: {'precision': array([0.19811727, 0.13622916]), 'recall': array([0.26825973, 0.36897483]), 'ndcg': array([0.28574162, 0.33509715])}
+EPOCH[541/2000] loss0.058-|Sample:1.12| - Time: 9.81 seconds
+EPOCH[542/2000] loss0.058-|Sample:0.92| - Time: 8.72 seconds
+EPOCH[543/2000] loss0.057-|Sample:1.13| - Time: 9.07 seconds
+EPOCH[544/2000] loss0.057-|Sample:1.06| - Time: 8.96 seconds
+EPOCH[545/2000] loss0.058-|Sample:0.91| - Time: 8.98 seconds
+TEST RESULTS at EPOCH[546/2000]: {'precision': array([0.19628833, 0.13668639]), 'recall': array([0.26643165, 0.37040588]), 'ndcg': array([0.28499801, 0.33614286])}
+EPOCH[546/2000] loss0.058-|Sample:1.09| - Time: 9.44 seconds
+EPOCH[547/2000] loss0.057-|Sample:1.07| - Time: 9.28 seconds
+EPOCH[548/2000] loss0.059-|Sample:0.89| - Time: 9.01 seconds
+EPOCH[549/2000] loss0.056-|Sample:1.12| - Time: 8.63 seconds
+EPOCH[550/2000] loss0.057-|Sample:0.86| - Time: 8.86 seconds
+TEST RESULTS at EPOCH[551/2000]: {'precision': array([0.19784831, 0.13639053]), 'recall': array([0.26805033, 0.36911742]), 'ndcg': array([0.28788248, 0.33756782])}
+EPOCH[551/2000] loss0.058-|Sample:1.10| - Time: 9.48 seconds
+EPOCH[552/2000] loss0.056-|Sample:1.21| - Time: 9.33 seconds
+EPOCH[553/2000] loss0.057-|Sample:0.93| - Time: 8.58 seconds
+EPOCH[554/2000] loss0.057-|Sample:1.10| - Time: 9.29 seconds
+EPOCH[555/2000] loss0.057-|Sample:0.96| - Time: 8.73 seconds
+TEST RESULTS at EPOCH[556/2000]: {'precision': array([0.19688004, 0.13625605]), 'recall': array([0.26721569, 0.36851332]), 'ndcg': array([0.28616653, 0.33588256])}
+EPOCH[556/2000] loss0.057-|Sample:0.91| - Time: 9.73 seconds
+EPOCH[557/2000] loss0.057-|Sample:1.18| - Time: 8.80 seconds
+EPOCH[558/2000] loss0.058-|Sample:0.92| - Time: 9.22 seconds
+EPOCH[559/2000] loss0.058-|Sample:1.12| - Time: 9.18 seconds
+EPOCH[560/2000] loss0.056-|Sample:1.08| - Time: 8.61 seconds
+TEST RESULTS at EPOCH[561/2000]: {'precision': array([0.19688004, 0.13727811]), 'recall': array([0.26707288, 0.37110432]), 'ndcg': array([0.28746903, 0.33866324])}
+EPOCH[561/2000] loss0.056-|Sample:0.87| - Time: 8.99 seconds
+EPOCH[562/2000] loss0.056-|Sample:1.08| - Time: 8.84 seconds
+EPOCH[563/2000] loss0.057-|Sample:0.93| - Time: 8.62 seconds
+EPOCH[564/2000] loss0.057-|Sample:1.05| - Time: 8.83 seconds
+EPOCH[565/2000] loss0.056-|Sample:1.13| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[566/2000]: {'precision': array([0.19537386, 0.13625605]), 'recall': array([0.2656254 , 0.36832526]), 'ndcg': array([0.28631413, 0.33708065])}
+EPOCH[566/2000] loss0.057-|Sample:0.90| - Time: 9.29 seconds
+EPOCH[567/2000] loss0.058-|Sample:1.11| - Time: 9.04 seconds
+EPOCH[568/2000] loss0.057-|Sample:1.04| - Time: 9.01 seconds
+EPOCH[569/2000] loss0.057-|Sample:0.96| - Time: 9.01 seconds
+EPOCH[570/2000] loss0.057-|Sample:1.06| - Time: 8.82 seconds
+TEST RESULTS at EPOCH[571/2000]: {'precision': array([0.19757934, 0.1366326 ]), 'recall': array([0.26778051, 0.36840062]), 'ndcg': array([0.28727474, 0.33692155])}
+EPOCH[571/2000] loss0.057-|Sample:0.92| - Time: 9.03 seconds
+EPOCH[572/2000] loss0.057-|Sample:1.01| - Time: 8.33 seconds
+EPOCH[573/2000] loss0.057-|Sample:1.10| - Time: 9.03 seconds
+EPOCH[574/2000] loss0.057-|Sample:0.87| - Time: 8.13 seconds
+EPOCH[575/2000] loss0.057-|Sample:1.13| - Time: 8.56 seconds
+TEST RESULTS at EPOCH[576/2000]: {'precision': array([0.19693384, 0.13644432]), 'recall': array([0.26706136, 0.36725988]), 'ndcg': array([0.28652738, 0.3363172 ])}
+EPOCH[576/2000] loss0.057-|Sample:0.89| - Time: 9.10 seconds
+EPOCH[577/2000] loss0.058-|Sample:1.11| - Time: 9.12 seconds
+EPOCH[578/2000] loss0.056-|Sample:1.07| - Time: 9.18 seconds
+EPOCH[579/2000] loss0.057-|Sample:0.91| - Time: 8.55 seconds
+EPOCH[580/2000] loss0.056-|Sample:1.00| - Time: 9.13 seconds
+TEST RESULTS at EPOCH[581/2000]: {'precision': array([0.19693384, 0.13690156]), 'recall': array([0.26731687, 0.37024044]), 'ndcg': array([0.28583841, 0.33643892])}
+EPOCH[581/2000] loss0.058-|Sample:1.12| - Time: 9.13 seconds
+EPOCH[582/2000] loss0.055-|Sample:0.87| - Time: 8.67 seconds
+EPOCH[583/2000] loss0.056-|Sample:1.11| - Time: 9.10 seconds
+EPOCH[584/2000] loss0.056-|Sample:0.91| - Time: 8.31 seconds
+EPOCH[585/2000] loss0.057-|Sample:0.98| - Time: 8.67 seconds
+TEST RESULTS at EPOCH[586/2000]: {'precision': array([0.1965035, 0.1366057]), 'recall': array([0.26592894, 0.3684749 ]), 'ndcg': array([0.28668735, 0.33715916])}
+EPOCH[586/2000] loss0.056-|Sample:1.09| - Time: 9.79 seconds
+EPOCH[587/2000] loss0.057-|Sample:0.90| - Time: 8.47 seconds
+EPOCH[588/2000] loss0.056-|Sample:1.10| - Time: 8.48 seconds
+EPOCH[589/2000] loss0.058-|Sample:0.87| - Time: 9.02 seconds
+EPOCH[590/2000] loss0.058-|Sample:0.99| - Time: 9.15 seconds
+TEST RESULTS at EPOCH[591/2000]: {'precision': array([0.19661108, 0.13633674]), 'recall': array([0.26710149, 0.36849646]), 'ndcg': array([0.28807925, 0.33814608])}
+EPOCH[591/2000] loss0.057-|Sample:1.07| - Time: 9.28 seconds
+EPOCH[592/2000] loss0.057-|Sample:0.91| - Time: 8.67 seconds
+EPOCH[593/2000] loss0.056-|Sample:1.04| - Time: 8.97 seconds
+EPOCH[594/2000] loss0.058-|Sample:1.08| - Time: 8.89 seconds
+EPOCH[595/2000] loss0.057-|Sample:0.91| - Time: 8.75 seconds
+TEST RESULTS at EPOCH[596/2000]: {'precision': array([0.19688004, 0.13776224]), 'recall': array([0.26737643, 0.3729021 ]), 'ndcg': array([0.28689783, 0.33884829])}
+EPOCH[596/2000] loss0.056-|Sample:1.08| - Time: 9.17 seconds
+EPOCH[597/2000] loss0.057-|Sample:0.87| - Time: 8.63 seconds
+EPOCH[598/2000] loss0.057-|Sample:1.08| - Time: 9.48 seconds
+EPOCH[599/2000] loss0.056-|Sample:1.04| - Time: 9.24 seconds
+EPOCH[600/2000] loss0.058-|Sample:0.90| - Time: 8.44 seconds
+TEST RESULTS at EPOCH[601/2000]: {'precision': array([0.19601937, 0.13762776]), 'recall': array([0.26578123, 0.37246279]), 'ndcg': array([0.28544978, 0.33783396])}
+EPOCH[601/2000] loss0.057-|Sample:1.07| - Time: 9.00 seconds
+EPOCH[602/2000] loss0.056-|Sample:1.18| - Time: 8.71 seconds
+EPOCH[603/2000] loss0.057-|Sample:1.04| - Time: 8.96 seconds
+EPOCH[604/2000] loss0.055-|Sample:1.05| - Time: 9.01 seconds
+EPOCH[605/2000] loss0.057-|Sample:0.88| - Time: 8.43 seconds
+TEST RESULTS at EPOCH[606/2000]: {'precision': array([0.19542765, 0.13692846]), 'recall': array([0.26451561, 0.370817  ]), 'ndcg': array([0.28573002, 0.33772866])}
+EPOCH[606/2000] loss0.056-|Sample:1.06| - Time: 9.53 seconds
+EPOCH[607/2000] loss0.057-|Sample:1.02| - Time: 8.80 seconds
+EPOCH[608/2000] loss0.057-|Sample:0.99| - Time: 9.07 seconds
+EPOCH[609/2000] loss0.057-|Sample:1.07| - Time: 9.38 seconds
+EPOCH[610/2000] loss0.055-|Sample:0.91| - Time: 8.98 seconds
+TEST RESULTS at EPOCH[611/2000]: {'precision': array([0.1964497 , 0.13695535]), 'recall': array([0.2667354 , 0.37132184]), 'ndcg': array([0.28611956, 0.33738946])}
+EPOCH[611/2000] loss0.057-|Sample:0.88| - Time: 9.44 seconds
+EPOCH[612/2000] loss0.056-|Sample:1.03| - Time: 8.85 seconds
+EPOCH[613/2000] loss0.057-|Sample:0.92| - Time: 8.39 seconds
+EPOCH[614/2000] loss0.057-|Sample:1.07| - Time: 9.07 seconds
+EPOCH[615/2000] loss0.056-|Sample:1.15| - Time: 9.35 seconds
+TEST RESULTS at EPOCH[616/2000]: {'precision': array([0.19639591, 0.13649812]), 'recall': array([0.2668464 , 0.36944679]), 'ndcg': array([0.28494152, 0.33532127])}
+EPOCH[616/2000] loss0.057-|Sample:0.88| - Time: 9.10 seconds
+EPOCH[617/2000] loss0.056-|Sample:1.07| - Time: 8.90 seconds
+EPOCH[618/2000] loss0.056-|Sample:0.91| - Time: 8.70 seconds
+EPOCH[619/2000] loss0.056-|Sample:1.05| - Time: 8.96 seconds
+EPOCH[620/2000] loss0.056-|Sample:1.09| - Time: 8.76 seconds
+TEST RESULTS at EPOCH[621/2000]: {'precision': array([0.19526627, 0.13695535]), 'recall': array([0.26458691, 0.37033501]), 'ndcg': array([0.28584793, 0.33782019])}
+EPOCH[621/2000] loss0.055-|Sample:0.92| - Time: 9.51 seconds
+EPOCH[622/2000] loss0.057-|Sample:1.12| - Time: 9.03 seconds
+EPOCH[623/2000] loss0.057-|Sample:1.03| - Time: 9.23 seconds
+EPOCH[624/2000] loss0.056-|Sample:0.94| - Time: 8.34 seconds
+EPOCH[625/2000] loss0.056-|Sample:1.07| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[626/2000]: {'precision': array([0.19747176, 0.13609467]), 'recall': array([0.26826955, 0.36820594]), 'ndcg': array([0.28804946, 0.33720437])}
+EPOCH[626/2000] loss0.056-|Sample:0.88| - Time: 8.89 seconds
+EPOCH[627/2000] loss0.057-|Sample:1.09| - Time: 9.23 seconds
+EPOCH[628/2000] loss0.056-|Sample:1.18| - Time: 9.10 seconds
+EPOCH[629/2000] loss0.056-|Sample:0.91| - Time: 8.77 seconds
+EPOCH[630/2000] loss0.056-|Sample:1.09| - Time: 9.07 seconds
+TEST RESULTS at EPOCH[631/2000]: {'precision': array([0.1965035 , 0.13674018]), 'recall': array([0.26731751, 0.37091925]), 'ndcg': array([0.28744439, 0.33826473])}
+EPOCH[631/2000] loss0.056-|Sample:0.85| - Time: 9.23 seconds
+EPOCH[632/2000] loss0.057-|Sample:1.05| - Time: 8.68 seconds
+EPOCH[633/2000] loss0.057-|Sample:1.11| - Time: 9.31 seconds
+EPOCH[634/2000] loss0.057-|Sample:0.87| - Time: 8.51 seconds
+EPOCH[635/2000] loss0.056-|Sample:1.05| - Time: 9.45 seconds
+TEST RESULTS at EPOCH[636/2000]: {'precision': array([0.19601937, 0.13633674]), 'recall': array([0.26645491, 0.36863948]), 'ndcg': array([0.28371505, 0.33411319])}
+EPOCH[636/2000] loss0.056-|Sample:1.13| - Time: 9.66 seconds
+EPOCH[637/2000] loss0.056-|Sample:0.87| - Time: 8.75 seconds
+EPOCH[638/2000] loss0.055-|Sample:1.19| - Time: 9.17 seconds
+EPOCH[639/2000] loss0.055-|Sample:0.87| - Time: 8.58 seconds
+EPOCH[640/2000] loss0.057-|Sample:1.12| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[641/2000]: {'precision': array([0.19784831, 0.13692846]), 'recall': array([0.26716275, 0.37036233]), 'ndcg': array([0.28717273, 0.33757944])}
+EPOCH[641/2000] loss0.055-|Sample:1.03| - Time: 9.61 seconds
+EPOCH[642/2000] loss0.056-|Sample:0.88| - Time: 8.98 seconds
+EPOCH[643/2000] loss0.057-|Sample:1.04| - Time: 9.02 seconds
+EPOCH[644/2000] loss0.056-|Sample:0.88| - Time: 8.91 seconds
+EPOCH[645/2000] loss0.055-|Sample:1.18| - Time: 8.90 seconds
+TEST RESULTS at EPOCH[646/2000]: {'precision': array([0.19903174, 0.13719742]), 'recall': array([0.26965321, 0.37156134]), 'ndcg': array([0.28900585, 0.33891769])}
+EPOCH[646/2000] loss0.056-|Sample:1.10| - Time: 9.69 seconds
+EPOCH[647/2000] loss0.056-|Sample:0.91| - Time: 8.26 seconds
+EPOCH[648/2000] loss0.055-|Sample:1.02| - Time: 8.26 seconds
+EPOCH[649/2000] loss0.055-|Sample:1.09| - Time: 8.23 seconds
+EPOCH[650/2000] loss0.056-|Sample:0.93| - Time: 8.47 seconds
+TEST RESULTS at EPOCH[651/2000]: {'precision': array([0.19768693, 0.13762776]), 'recall': array([0.26775148, 0.37265149]), 'ndcg': array([0.28749176, 0.33883855])}
+EPOCH[651/2000] loss0.054-|Sample:1.02| - Time: 9.18 seconds
+EPOCH[652/2000] loss0.056-|Sample:0.86| - Time: 8.79 seconds
+EPOCH[653/2000] loss0.055-|Sample:1.09| - Time: 9.12 seconds
+EPOCH[654/2000] loss0.055-|Sample:1.10| - Time: 9.07 seconds
+EPOCH[655/2000] loss0.056-|Sample:0.87| - Time: 8.53 seconds
+TEST RESULTS at EPOCH[656/2000]: {'precision': array([0.1993007 , 0.13641743]), 'recall': array([0.27065392, 0.36962503]), 'ndcg': array([0.28713115, 0.33575005])}
+EPOCH[656/2000] loss0.055-|Sample:1.07| - Time: 9.24 seconds
+EPOCH[657/2000] loss0.056-|Sample:1.09| - Time: 9.26 seconds
+EPOCH[658/2000] loss0.055-|Sample:0.87| - Time: 8.54 seconds
+EPOCH[659/2000] loss0.057-|Sample:1.13| - Time: 8.79 seconds
+EPOCH[660/2000] loss0.055-|Sample:0.97| - Time: 8.61 seconds
+TEST RESULTS at EPOCH[661/2000]: {'precision': array([0.19731038, 0.13676708]), 'recall': array([0.26705666, 0.37063684]), 'ndcg': array([0.28542999, 0.33616458])}
+EPOCH[661/2000] loss0.056-|Sample:1.06| - Time: 9.42 seconds
+EPOCH[662/2000] loss0.054-|Sample:1.05| - Time: 8.53 seconds
+EPOCH[663/2000] loss0.056-|Sample:0.90| - Time: 9.11 seconds
+EPOCH[664/2000] loss0.055-|Sample:1.20| - Time: 8.74 seconds
+EPOCH[665/2000] loss0.057-|Sample:0.88| - Time: 8.53 seconds
+TEST RESULTS at EPOCH[666/2000]: {'precision': array([0.19682625, 0.13749328]), 'recall': array([0.26633345, 0.37195475]), 'ndcg': array([0.28658003, 0.33836798])}
+EPOCH[666/2000] loss0.055-|Sample:0.90| - Time: 9.24 seconds
+EPOCH[667/2000] loss0.055-|Sample:1.05| - Time: 8.34 seconds
+EPOCH[668/2000] loss0.055-|Sample:0.86| - Time: 8.49 seconds
+EPOCH[669/2000] loss0.055-|Sample:1.13| - Time: 9.17 seconds
+EPOCH[670/2000] loss0.056-|Sample:1.03| - Time: 8.92 seconds
+TEST RESULTS at EPOCH[671/2000]: {'precision': array([0.1972028 , 0.13786982]), 'recall': array([0.26619641, 0.37390772]), 'ndcg': array([0.28727248, 0.33982542])}
+EPOCH[671/2000] loss0.056-|Sample:0.88| - Time: 9.37 seconds
+EPOCH[672/2000] loss0.056-|Sample:1.08| - Time: 8.74 seconds
+EPOCH[673/2000] loss0.055-|Sample:0.87| - Time: 8.28 seconds
+EPOCH[674/2000] loss0.055-|Sample:1.03| - Time: 8.78 seconds
+EPOCH[675/2000] loss0.054-|Sample:1.00| - Time: 8.55 seconds
+TEST RESULTS at EPOCH[676/2000]: {'precision': array([0.19994621, 0.13717052]), 'recall': array([0.27061421, 0.37218508]), 'ndcg': array([0.288865 , 0.3383521])}
+EPOCH[676/2000] loss0.055-|Sample:0.88| - Time: 9.29 seconds
+EPOCH[677/2000] loss0.055-|Sample:1.08| - Time: 9.12 seconds
+EPOCH[678/2000] loss0.056-|Sample:1.01| - Time: 9.06 seconds
+EPOCH[679/2000] loss0.055-|Sample:0.90| - Time: 8.90 seconds
+EPOCH[680/2000] loss0.057-|Sample:1.19| - Time: 9.38 seconds
+TEST RESULTS at EPOCH[681/2000]: {'precision': array([0.19800968, 0.13725121]), 'recall': array([0.26833893, 0.37172037]), 'ndcg': array([0.28786323, 0.33850826])}
+EPOCH[681/2000] loss0.055-|Sample:0.88| - Time: 9.16 seconds
+EPOCH[682/2000] loss0.056-|Sample:1.07| - Time: 8.88 seconds
+EPOCH[683/2000] loss0.055-|Sample:1.04| - Time: 8.87 seconds
+EPOCH[684/2000] loss0.056-|Sample:0.89| - Time: 9.15 seconds
+EPOCH[685/2000] loss0.056-|Sample:1.14| - Time: 9.06 seconds
+TEST RESULTS at EPOCH[686/2000]: {'precision': array([0.19521248, 0.13671329]), 'recall': array([0.26393436, 0.36946152]), 'ndcg': array([0.28444962, 0.33629361])}
+EPOCH[686/2000] loss0.056-|Sample:0.87| - Time: 9.01 seconds
+EPOCH[687/2000] loss0.056-|Sample:1.06| - Time: 8.60 seconds
+EPOCH[688/2000] loss0.056-|Sample:1.04| - Time: 9.04 seconds
+EPOCH[689/2000] loss0.056-|Sample:0.94| - Time: 8.73 seconds
+EPOCH[690/2000] loss0.057-|Sample:1.08| - Time: 8.32 seconds
+TEST RESULTS at EPOCH[691/2000]: {'precision': array([0.19817106, 0.13776224]), 'recall': array([0.26870672, 0.37288609]), 'ndcg': array([0.28713427, 0.33826688])}
+EPOCH[691/2000] loss0.057-|Sample:1.06| - Time: 9.11 seconds
+EPOCH[692/2000] loss0.055-|Sample:0.89| - Time: 9.05 seconds
+EPOCH[693/2000] loss0.056-|Sample:1.08| - Time: 9.12 seconds
+EPOCH[694/2000] loss0.056-|Sample:0.93| - Time: 8.59 seconds
+EPOCH[695/2000] loss0.056-|Sample:1.19| - Time: 9.06 seconds
+TEST RESULTS at EPOCH[696/2000]: {'precision': array([0.19591178, 0.1380581 ]), 'recall': array([0.26567727, 0.37401381]), 'ndcg': array([0.28447576, 0.33771666])}
+EPOCH[696/2000] loss0.055-|Sample:1.09| - Time: 9.25 seconds
+EPOCH[697/2000] loss0.055-|Sample:0.86| - Time: 8.64 seconds
+EPOCH[698/2000] loss0.054-|Sample:1.24| - Time: 8.84 seconds
+EPOCH[699/2000] loss0.055-|Sample:0.90| - Time: 8.82 seconds
+EPOCH[700/2000] loss0.055-|Sample:1.13| - Time: 8.68 seconds
+TEST RESULTS at EPOCH[701/2000]: {'precision': array([0.19655729, 0.13781603]), 'recall': array([0.26594495, 0.37371283]), 'ndcg': array([0.28459979, 0.33721304])}
+EPOCH[701/2000] loss0.056-|Sample:1.08| - Time: 9.37 seconds
+EPOCH[702/2000] loss0.055-|Sample:0.86| - Time: 8.23 seconds
+EPOCH[703/2000] loss0.056-|Sample:1.09| - Time: 9.15 seconds
+EPOCH[704/2000] loss0.054-|Sample:1.12| - Time: 9.05 seconds
+EPOCH[705/2000] loss0.056-|Sample:0.99| - Time: 8.82 seconds
+TEST RESULTS at EPOCH[706/2000]: {'precision': array([0.1958042 , 0.13738569]), 'recall': array([0.26533893, 0.37310467]), 'ndcg': array([0.28529862, 0.33796454])}
+EPOCH[706/2000] loss0.056-|Sample:1.11| - Time: 9.53 seconds
+EPOCH[707/2000] loss0.057-|Sample:0.89| - Time: 9.27 seconds
+EPOCH[708/2000] loss0.055-|Sample:1.08| - Time: 8.89 seconds
+EPOCH[709/2000] loss0.056-|Sample:1.09| - Time: 8.65 seconds
+EPOCH[710/2000] loss0.055-|Sample:0.88| - Time: 8.61 seconds
+TEST RESULTS at EPOCH[711/2000]: {'precision': array([0.19607316, 0.13684777]), 'recall': array([0.26646495, 0.37063257]), 'ndcg': array([0.28649659, 0.33790789])}
+EPOCH[711/2000] loss0.055-|Sample:1.14| - Time: 9.43 seconds
+EPOCH[712/2000] loss0.055-|Sample:1.04| - Time: 8.99 seconds
+EPOCH[713/2000] loss0.055-|Sample:0.92| - Time: 8.61 seconds
+EPOCH[714/2000] loss0.056-|Sample:1.08| - Time: 8.69 seconds
+EPOCH[715/2000] loss0.055-|Sample:0.92| - Time: 7.68 seconds
+TEST RESULTS at EPOCH[716/2000]: {'precision': array([0.19671867, 0.13741259]), 'recall': array([0.2662534 , 0.37255928]), 'ndcg': array([0.28622618, 0.33825384])}
+EPOCH[716/2000] loss0.056-|Sample:1.02| - Time: 9.48 seconds
+EPOCH[717/2000] loss0.055-|Sample:1.06| - Time: 8.19 seconds
+EPOCH[718/2000] loss0.056-|Sample:0.88| - Time: 8.97 seconds
+EPOCH[719/2000] loss0.055-|Sample:1.08| - Time: 9.08 seconds
+EPOCH[720/2000] loss0.055-|Sample:0.87| - Time: 8.78 seconds
+TEST RESULTS at EPOCH[721/2000]: {'precision': array([0.19601937, 0.13725121]), 'recall': array([0.26522815, 0.37237784]), 'ndcg': array([0.28392774, 0.33642302])}
+EPOCH[721/2000] loss0.055-|Sample:0.90| - Time: 9.63 seconds
+EPOCH[722/2000] loss0.055-|Sample:1.13| - Time: 9.44 seconds
+EPOCH[723/2000] loss0.055-|Sample:0.90| - Time: 8.93 seconds
+EPOCH[724/2000] loss0.055-|Sample:1.09| - Time: 8.59 seconds
+EPOCH[725/2000] loss0.054-|Sample:1.06| - Time: 8.97 seconds
+TEST RESULTS at EPOCH[726/2000]: {'precision': array([0.19757934, 0.13795051]), 'recall': array([0.26723661, 0.37387548]), 'ndcg': array([0.28571397, 0.33774216])}
+EPOCH[726/2000] loss0.054-|Sample:0.92| - Time: 9.60 seconds
+EPOCH[727/2000] loss0.056-|Sample:1.19| - Time: 9.00 seconds
+EPOCH[728/2000] loss0.054-|Sample:0.91| - Time: 9.11 seconds
+EPOCH[729/2000] loss0.056-|Sample:1.11| - Time: 8.66 seconds
+EPOCH[730/2000] loss0.056-|Sample:1.05| - Time: 9.00 seconds
+TEST RESULTS at EPOCH[731/2000]: {'precision': array([0.19618074, 0.137305  ]), 'recall': array([0.26503689, 0.37209436]), 'ndcg': array([0.28356497, 0.33577297])}
+EPOCH[731/2000] loss0.055-|Sample:0.95| - Time: 9.67 seconds
+EPOCH[732/2000] loss0.055-|Sample:1.18| - Time: 8.89 seconds
+EPOCH[733/2000] loss0.053-|Sample:1.13| - Time: 8.71 seconds
+EPOCH[734/2000] loss0.054-|Sample:0.94| - Time: 8.41 seconds
+EPOCH[735/2000] loss0.055-|Sample:1.12| - Time: 8.81 seconds
+TEST RESULTS at EPOCH[736/2000]: {'precision': array([0.19542765, 0.13644432]), 'recall': array([0.26383873, 0.36932341]), 'ndcg': array([0.28301911, 0.33456336])}
+EPOCH[736/2000] loss0.054-|Sample:0.88| - Time: 9.39 seconds
+EPOCH[737/2000] loss0.054-|Sample:1.12| - Time: 8.77 seconds
+EPOCH[738/2000] loss0.054-|Sample:1.11| - Time: 9.31 seconds
+EPOCH[739/2000] loss0.055-|Sample:0.95| - Time: 8.65 seconds
+EPOCH[740/2000] loss0.055-|Sample:1.04| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[741/2000]: {'precision': array([0.19548144, 0.13722431]), 'recall': array([0.26413352, 0.37206426]), 'ndcg': array([0.28467064, 0.33722913])}
+EPOCH[741/2000] loss0.055-|Sample:0.95| - Time: 8.95 seconds
+EPOCH[742/2000] loss0.055-|Sample:1.08| - Time: 8.67 seconds
+EPOCH[743/2000] loss0.055-|Sample:1.10| - Time: 8.82 seconds
+EPOCH[744/2000] loss0.055-|Sample:0.96| - Time: 8.69 seconds
+EPOCH[745/2000] loss0.056-|Sample:1.12| - Time: 8.49 seconds
+TEST RESULTS at EPOCH[746/2000]: {'precision': array([0.19731038, 0.13725121]), 'recall': array([0.26730855, 0.37183458]), 'ndcg': array([0.28517556, 0.33630214])}
+EPOCH[746/2000] loss0.055-|Sample:1.11| - Time: 9.66 seconds
+EPOCH[747/2000] loss0.056-|Sample:1.02| - Time: 8.87 seconds
+EPOCH[748/2000] loss0.055-|Sample:1.09| - Time: 9.16 seconds
+EPOCH[749/2000] loss0.055-|Sample:0.88| - Time: 8.74 seconds
+EPOCH[750/2000] loss0.055-|Sample:1.11| - Time: 8.79 seconds
+TEST RESULTS at EPOCH[751/2000]: {'precision': array([0.19639591, 0.13711673]), 'recall': array([0.26523477, 0.3712213 ]), 'ndcg': array([0.28515233, 0.33688921])}
+EPOCH[751/2000] loss0.055-|Sample:1.13| - Time: 9.12 seconds
+EPOCH[752/2000] loss0.054-|Sample:0.97| - Time: 8.37 seconds
+EPOCH[753/2000] loss0.055-|Sample:1.12| - Time: 8.63 seconds
+EPOCH[754/2000] loss0.055-|Sample:0.94| - Time: 8.74 seconds
+EPOCH[755/2000] loss0.054-|Sample:1.09| - Time: 8.69 seconds
+TEST RESULTS at EPOCH[756/2000]: {'precision': array([0.19811727, 0.1373588 ]), 'recall': array([0.26800315, 0.37245895]), 'ndcg': array([0.28782666, 0.33879069])}
+EPOCH[756/2000] loss0.055-|Sample:1.06| - Time: 9.73 seconds
+EPOCH[757/2000] loss0.054-|Sample:0.97| - Time: 8.66 seconds
+EPOCH[758/2000] loss0.055-|Sample:1.20| - Time: 8.52 seconds
+EPOCH[759/2000] loss0.056-|Sample:1.04| - Time: 8.75 seconds
+EPOCH[760/2000] loss0.055-|Sample:0.90| - Time: 8.47 seconds
+TEST RESULTS at EPOCH[761/2000]: {'precision': array([0.19596557, 0.13738569]), 'recall': array([0.26540682, 0.37190907]), 'ndcg': array([0.28444423, 0.33668798])}
+EPOCH[761/2000] loss0.056-|Sample:1.08| - Time: 9.22 seconds
+EPOCH[762/2000] loss0.056-|Sample:0.88| - Time: 8.21 seconds
+EPOCH[763/2000] loss0.055-|Sample:1.03| - Time: 8.10 seconds
+EPOCH[764/2000] loss0.055-|Sample:1.07| - Time: 8.76 seconds
+EPOCH[765/2000] loss0.055-|Sample:0.95| - Time: 8.67 seconds
+TEST RESULTS at EPOCH[766/2000]: {'precision': array([0.19601937, 0.13639053]), 'recall': array([0.26553852, 0.36913983]), 'ndcg': array([0.28478246, 0.33555408])}
+EPOCH[766/2000] loss0.054-|Sample:1.08| - Time: 9.17 seconds
+EPOCH[767/2000] loss0.054-|Sample:1.05| - Time: 8.64 seconds
+EPOCH[768/2000] loss0.056-|Sample:0.90| - Time: 8.75 seconds
+EPOCH[769/2000] loss0.055-|Sample:1.07| - Time: 8.34 seconds
+EPOCH[770/2000] loss0.056-|Sample:0.89| - Time: 8.52 seconds
+TEST RESULTS at EPOCH[771/2000]: {'precision': array([0.19752555, 0.13679398]), 'recall': array([0.26772992, 0.37086546]), 'ndcg': array([0.28607134, 0.33657429])}
+EPOCH[771/2000] loss0.054-|Sample:1.10| - Time: 9.16 seconds
+EPOCH[772/2000] loss0.055-|Sample:1.12| - Time: 8.66 seconds
+EPOCH[773/2000] loss0.056-|Sample:0.97| - Time: 8.54 seconds
+EPOCH[774/2000] loss0.054-|Sample:1.10| - Time: 8.83 seconds
+EPOCH[775/2000] loss0.055-|Sample:1.04| - Time: 8.96 seconds
+TEST RESULTS at EPOCH[776/2000]: {'precision': array([0.1964497 , 0.13708983]), 'recall': array([0.26641905, 0.3710817 ]), 'ndcg': array([0.28482146, 0.3362375 ])}
+EPOCH[776/2000] loss0.055-|Sample:0.91| - Time: 9.18 seconds
+EPOCH[777/2000] loss0.055-|Sample:1.09| - Time: 8.98 seconds
+EPOCH[778/2000] loss0.055-|Sample:0.92| - Time: 7.87 seconds
+EPOCH[779/2000] loss0.055-|Sample:1.09| - Time: 8.80 seconds
+EPOCH[780/2000] loss0.055-|Sample:1.16| - Time: 8.74 seconds
+TEST RESULTS at EPOCH[781/2000]: {'precision': array([0.19628833, 0.1373588 ]), 'recall': array([0.26632043, 0.37231849]), 'ndcg': array([0.28596481, 0.33786779])}
+EPOCH[781/2000] loss0.055-|Sample:0.89| - Time: 9.21 seconds
+EPOCH[782/2000] loss0.053-|Sample:1.15| - Time: 8.50 seconds
+EPOCH[783/2000] loss0.054-|Sample:0.93| - Time: 8.96 seconds
+EPOCH[784/2000] loss0.054-|Sample:1.08| - Time: 8.31 seconds
+EPOCH[785/2000] loss0.056-|Sample:1.09| - Time: 8.85 seconds
+TEST RESULTS at EPOCH[786/2000]: {'precision': array([0.19623453, 0.13746638]), 'recall': array([0.26592809, 0.37168088]), 'ndcg': array([0.28631253, 0.33820366])}
+EPOCH[786/2000] loss0.053-|Sample:0.93| - Time: 9.38 seconds
+EPOCH[787/2000] loss0.054-|Sample:1.13| - Time: 8.70 seconds
+EPOCH[788/2000] loss0.054-|Sample:1.08| - Time: 8.70 seconds
+EPOCH[789/2000] loss0.055-|Sample:0.90| - Time: 8.97 seconds
+EPOCH[790/2000] loss0.055-|Sample:1.09| - Time: 9.18 seconds
+TEST RESULTS at EPOCH[791/2000]: {'precision': array([0.19413663, 0.13797741]), 'recall': array([0.26323164, 0.37292216]), 'ndcg': array([0.28387735, 0.33771756])}
+EPOCH[791/2000] loss0.054-|Sample:0.91| - Time: 8.80 seconds
+EPOCH[792/2000] loss0.055-|Sample:1.07| - Time: 8.78 seconds
+EPOCH[793/2000] loss0.054-|Sample:1.03| - Time: 8.89 seconds
+EPOCH[794/2000] loss0.055-|Sample:0.93| - Time: 8.75 seconds
+EPOCH[795/2000] loss0.056-|Sample:1.09| - Time: 8.41 seconds
+TEST RESULTS at EPOCH[796/2000]: {'precision': array([0.19483593, 0.13674018]), 'recall': array([0.26414163, 0.36941584]), 'ndcg': array([0.28525868, 0.33705004])}
+EPOCH[796/2000] loss0.054-|Sample:0.97| - Time: 9.27 seconds
+EPOCH[797/2000] loss0.055-|Sample:1.14| - Time: 9.11 seconds
+EPOCH[798/2000] loss0.056-|Sample:1.07| - Time: 8.91 seconds
+EPOCH[799/2000] loss0.054-|Sample:0.92| - Time: 8.56 seconds
+EPOCH[800/2000] loss0.054-|Sample:1.06| - Time: 8.63 seconds
+TEST RESULTS at EPOCH[801/2000]: {'precision': array([0.19483593, 0.13676708]), 'recall': array([0.26360925, 0.36935714]), 'ndcg': array([0.28403991, 0.33599197])}
+EPOCH[801/2000] loss0.057-|Sample:1.09| - Time: 9.44 seconds
+EPOCH[802/2000] loss0.054-|Sample:0.91| - Time: 8.90 seconds
+EPOCH[803/2000] loss0.055-|Sample:1.06| - Time: 8.96 seconds
+EPOCH[804/2000] loss0.054-|Sample:0.89| - Time: 8.31 seconds
+EPOCH[805/2000] loss0.055-|Sample:1.06| - Time: 8.85 seconds
+TEST RESULTS at EPOCH[806/2000]: {'precision': array([0.19698763, 0.13717052]), 'recall': array([0.26636654, 0.3703935 ]), 'ndcg': array([0.28533937, 0.33650272])}
+EPOCH[806/2000] loss0.054-|Sample:1.11| - Time: 9.35 seconds
+EPOCH[807/2000] loss0.054-|Sample:0.97| - Time: 8.58 seconds
+EPOCH[808/2000] loss0.053-|Sample:1.11| - Time: 8.74 seconds
+EPOCH[809/2000] loss0.054-|Sample:0.89| - Time: 8.40 seconds
+EPOCH[810/2000] loss0.055-|Sample:1.04| - Time: 8.42 seconds
+TEST RESULTS at EPOCH[811/2000]: {'precision': array([0.19623453, 0.13687466]), 'recall': array([0.2661614 , 0.36964851]), 'ndcg': array([0.28461452, 0.33568595])}
+EPOCH[811/2000] loss0.054-|Sample:1.06| - Time: 9.41 seconds
+EPOCH[812/2000] loss0.053-|Sample:0.90| - Time: 8.95 seconds
+EPOCH[813/2000] loss0.055-|Sample:1.09| - Time: 8.87 seconds
+EPOCH[814/2000] loss0.055-|Sample:1.07| - Time: 8.73 seconds
+EPOCH[815/2000] loss0.053-|Sample:0.88| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[816/2000]: {'precision': array([0.19569661, 0.13665949]), 'recall': array([0.26590632, 0.36917121]), 'ndcg': array([0.28512642, 0.33622345])}
+EPOCH[816/2000] loss0.055-|Sample:1.04| - Time: 9.40 seconds
+EPOCH[817/2000] loss0.055-|Sample:0.92| - Time: 8.48 seconds
+EPOCH[818/2000] loss0.055-|Sample:1.38| - Time: 9.63 seconds
+EPOCH[819/2000] loss0.054-|Sample:1.11| - Time: 9.40 seconds
+EPOCH[820/2000] loss0.055-|Sample:0.91| - Time: 8.65 seconds
+TEST RESULTS at EPOCH[821/2000]: {'precision': array([0.19704142, 0.13738569]), 'recall': array([0.26761188, 0.37225488]), 'ndcg': array([0.28670258, 0.33818105])}
+EPOCH[821/2000] loss0.055-|Sample:1.10| - Time: 9.31 seconds
+EPOCH[822/2000] loss0.053-|Sample:1.15| - Time: 8.61 seconds
+EPOCH[823/2000] loss0.054-|Sample:0.91| - Time: 8.56 seconds
+EPOCH[824/2000] loss0.054-|Sample:1.06| - Time: 8.81 seconds
+EPOCH[825/2000] loss0.054-|Sample:0.91| - Time: 8.73 seconds
+TEST RESULTS at EPOCH[826/2000]: {'precision': array([0.19618074, 0.13698225]), 'recall': array([0.26608669, 0.37012688]), 'ndcg': array([0.28580906, 0.33710193])}
+EPOCH[826/2000] loss0.056-|Sample:1.13| - Time: 9.57 seconds
+EPOCH[827/2000] loss0.055-|Sample:1.11| - Time: 9.01 seconds
+EPOCH[828/2000] loss0.054-|Sample:0.94| - Time: 8.51 seconds
+EPOCH[829/2000] loss0.055-|Sample:1.07| - Time: 8.99 seconds
+EPOCH[830/2000] loss0.055-|Sample:0.93| - Time: 8.40 seconds
+TEST RESULTS at EPOCH[831/2000]: {'precision': array([0.19451318, 0.13725121]), 'recall': array([0.26371919, 0.37120764]), 'ndcg': array([0.28369053, 0.33643532])}
+EPOCH[831/2000] loss0.055-|Sample:0.93| - Time: 9.40 seconds
+EPOCH[832/2000] loss0.056-|Sample:1.02| - Time: 8.48 seconds
+EPOCH[833/2000] loss0.055-|Sample:0.89| - Time: 8.60 seconds
+EPOCH[834/2000] loss0.055-|Sample:1.18| - Time: 8.92 seconds
+EPOCH[835/2000] loss0.055-|Sample:1.03| - Time: 9.02 seconds
+TEST RESULTS at EPOCH[836/2000]: {'precision': array([0.19612695, 0.13684777]), 'recall': array([0.26665386, 0.36988012]), 'ndcg': array([0.28541309, 0.33639009])}
+EPOCH[836/2000] loss0.056-|Sample:0.94| - Time: 9.25 seconds
+EPOCH[837/2000] loss0.055-|Sample:1.09| - Time: 8.54 seconds
+EPOCH[838/2000] loss0.055-|Sample:0.96| - Time: 8.47 seconds
+EPOCH[839/2000] loss0.055-|Sample:1.03| - Time: 8.87 seconds
+EPOCH[840/2000] loss0.054-|Sample:1.05| - Time: 8.70 seconds
+TEST RESULTS at EPOCH[841/2000]: {'precision': array([0.19532006, 0.13609467]), 'recall': array([0.26546338, 0.36893342]), 'ndcg': array([0.2849572 , 0.33569925])}
+EPOCH[841/2000] loss0.055-|Sample:0.90| - Time: 9.04 seconds
+EPOCH[842/2000] loss0.054-|Sample:1.07| - Time: 8.68 seconds
+EPOCH[843/2000] loss0.055-|Sample:1.03| - Time: 8.57 seconds
+EPOCH[844/2000] loss0.055-|Sample:0.90| - Time: 8.79 seconds
+EPOCH[845/2000] loss0.055-|Sample:1.10| - Time: 8.55 seconds
+TEST RESULTS at EPOCH[846/2000]: {'precision': array([0.19392146, 0.13655191]), 'recall': array([0.26292788, 0.37022102]), 'ndcg': array([0.28115292, 0.33370658])}
+EPOCH[846/2000] loss0.054-|Sample:0.93| - Time: 9.26 seconds
+EPOCH[847/2000] loss0.054-|Sample:1.18| - Time: 9.15 seconds
+EPOCH[848/2000] loss0.054-|Sample:1.07| - Time: 8.93 seconds
+EPOCH[849/2000] loss0.054-|Sample:0.92| - Time: 8.47 seconds
+EPOCH[850/2000] loss0.054-|Sample:1.07| - Time: 8.81 seconds
+TEST RESULTS at EPOCH[851/2000]: {'precision': array([0.19419042, 0.13714363]), 'recall': array([0.26369827, 0.37097283]), 'ndcg': array([0.28431829, 0.33707507])}
+EPOCH[851/2000] loss0.055-|Sample:0.87| - Time: 9.45 seconds
+EPOCH[852/2000] loss0.054-|Sample:1.02| - Time: 8.63 seconds
+EPOCH[853/2000] loss0.055-|Sample:0.99| - Time: 8.89 seconds
+EPOCH[854/2000] loss0.054-|Sample:0.92| - Time: 8.60 seconds
+EPOCH[855/2000] loss0.055-|Sample:1.08| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[856/2000]: {'precision': array([0.19784831, 0.13706294]), 'recall': array([0.26798522, 0.37096515]), 'ndcg': array([0.28718551, 0.3376473 ])}
+EPOCH[856/2000] loss0.053-|Sample:1.15| - Time: 9.50 seconds
+EPOCH[857/2000] loss0.054-|Sample:0.91| - Time: 8.49 seconds
+EPOCH[858/2000] loss0.054-|Sample:1.07| - Time: 8.61 seconds
+EPOCH[859/2000] loss0.054-|Sample:0.87| - Time: 8.62 seconds
+EPOCH[860/2000] loss0.055-|Sample:1.03| - Time: 8.74 seconds
+TEST RESULTS at EPOCH[861/2000]: {'precision': array([0.19709521, 0.13741259]), 'recall': array([0.26765286, 0.37168601]), 'ndcg': array([0.28641492, 0.33759005])}
+EPOCH[861/2000] loss0.055-|Sample:1.03| - Time: 9.41 seconds
+EPOCH[862/2000] loss0.054-|Sample:0.90| - Time: 8.58 seconds
+EPOCH[863/2000] loss0.055-|Sample:1.13| - Time: 8.90 seconds
+EPOCH[864/2000] loss0.054-|Sample:0.98| - Time: 8.77 seconds
+EPOCH[865/2000] loss0.054-|Sample:1.11| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[866/2000]: {'precision': array([0.19677246, 0.13687466]), 'recall': array([0.26632321, 0.36935479]), 'ndcg': array([0.28534363, 0.3360533 ])}
+EPOCH[866/2000] loss0.054-|Sample:1.07| - Time: 9.07 seconds
+EPOCH[867/2000] loss0.054-|Sample:0.92| - Time: 8.18 seconds
+EPOCH[868/2000] loss0.054-|Sample:1.06| - Time: 8.57 seconds
+EPOCH[869/2000] loss0.054-|Sample:1.00| - Time: 8.71 seconds
+EPOCH[870/2000] loss0.054-|Sample:0.94| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[871/2000]: {'precision': array([0.19532006, 0.13671329]), 'recall': array([0.26536028, 0.36991619]), 'ndcg': array([0.28289352, 0.33443541])}
+EPOCH[871/2000] loss0.054-|Sample:1.01| - Time: 9.34 seconds
+EPOCH[872/2000] loss0.055-|Sample:0.94| - Time: 9.12 seconds
+EPOCH[873/2000] loss0.054-|Sample:1.08| - Time: 8.67 seconds
+EPOCH[874/2000] loss0.054-|Sample:1.05| - Time: 9.12 seconds
+EPOCH[875/2000] loss0.054-|Sample:0.95| - Time: 9.08 seconds
+TEST RESULTS at EPOCH[876/2000]: {'precision': array([0.19688004, 0.13717052]), 'recall': array([0.26712838, 0.37027332]), 'ndcg': array([0.28706287, 0.3379888 ])}
+EPOCH[876/2000] loss0.055-|Sample:1.11| - Time: 9.51 seconds
+EPOCH[877/2000] loss0.054-|Sample:1.07| - Time: 8.41 seconds
+EPOCH[878/2000] loss0.055-|Sample:0.90| - Time: 8.55 seconds
+EPOCH[879/2000] loss0.054-|Sample:1.13| - Time: 7.99 seconds
+EPOCH[880/2000] loss0.054-|Sample:0.89| - Time: 8.51 seconds
+TEST RESULTS at EPOCH[881/2000]: {'precision': array([0.19811727, 0.13668639]), 'recall': array([0.2689712 , 0.36940773]), 'ndcg': array([0.28840693, 0.33794251])}
+EPOCH[881/2000] loss0.053-|Sample:1.04| - Time: 9.25 seconds
+EPOCH[882/2000] loss0.055-|Sample:1.13| - Time: 8.71 seconds
+EPOCH[883/2000] loss0.054-|Sample:0.88| - Time: 8.38 seconds
+EPOCH[884/2000] loss0.054-|Sample:1.07| - Time: 9.08 seconds
+EPOCH[885/2000] loss0.054-|Sample:0.93| - Time: 8.84 seconds
+TEST RESULTS at EPOCH[886/2000]: {'precision': array([0.19612695, 0.13741259]), 'recall': array([0.26688568, 0.37164353]), 'ndcg': array([0.28702202, 0.33874513])}
+EPOCH[886/2000] loss0.053-|Sample:0.92| - Time: 9.39 seconds
+EPOCH[887/2000] loss0.054-|Sample:1.05| - Time: 8.84 seconds
+EPOCH[888/2000] loss0.053-|Sample:0.93| - Time: 8.78 seconds
+EPOCH[889/2000] loss0.055-|Sample:1.04| - Time: 8.50 seconds
+EPOCH[890/2000] loss0.054-|Sample:1.14| - Time: 8.46 seconds
+TEST RESULTS at EPOCH[891/2000]: {'precision': array([0.19553523, 0.13773534]), 'recall': array([0.26487722, 0.37221859]), 'ndcg': array([0.28449808, 0.3371237 ])}
+EPOCH[891/2000] loss0.054-|Sample:0.90| - Time: 9.20 seconds
+EPOCH[892/2000] loss0.054-|Sample:1.14| - Time: 9.14 seconds
+EPOCH[893/2000] loss0.054-|Sample:0.92| - Time: 8.63 seconds
+EPOCH[894/2000] loss0.054-|Sample:1.05| - Time: 8.77 seconds
+EPOCH[895/2000] loss0.055-|Sample:1.16| - Time: 8.87 seconds
+TEST RESULTS at EPOCH[896/2000]: {'precision': array([0.19677246, 0.13765465]), 'recall': array([0.26656976, 0.37200385]), 'ndcg': array([0.2860396 , 0.33792251])}
+EPOCH[896/2000] loss0.053-|Sample:0.91| - Time: 9.17 seconds
+EPOCH[897/2000] loss0.053-|Sample:1.26| - Time: 8.96 seconds
+EPOCH[898/2000] loss0.054-|Sample:1.09| - Time: 8.78 seconds
+EPOCH[899/2000] loss0.054-|Sample:0.92| - Time: 8.82 seconds
+EPOCH[900/2000] loss0.055-|Sample:1.20| - Time: 9.02 seconds
+TEST RESULTS at EPOCH[901/2000]: {'precision': array([0.19612695, 0.13703604]), 'recall': array([0.26563052, 0.37081679]), 'ndcg': array([0.28473343, 0.3362834 ])}
+EPOCH[901/2000] loss0.055-|Sample:0.91| - Time: 9.31 seconds
+EPOCH[902/2000] loss0.054-|Sample:1.19| - Time: 9.05 seconds
+EPOCH[903/2000] loss0.053-|Sample:1.07| - Time: 8.78 seconds
+EPOCH[904/2000] loss0.054-|Sample:0.92| - Time: 8.74 seconds
+EPOCH[905/2000] loss0.055-|Sample:1.05| - Time: 8.33 seconds
+TEST RESULTS at EPOCH[906/2000]: {'precision': array([0.19693384, 0.13695535]), 'recall': array([0.26607965, 0.36982953]), 'ndcg': array([0.28428964, 0.33521698])}
+EPOCH[906/2000] loss0.054-|Sample:0.91| - Time: 8.50 seconds
+EPOCH[907/2000] loss0.054-|Sample:1.07| - Time: 8.49 seconds
+EPOCH[908/2000] loss0.054-|Sample:1.05| - Time: 8.42 seconds
+EPOCH[909/2000] loss0.054-|Sample:1.01| - Time: 8.77 seconds
+EPOCH[910/2000] loss0.053-|Sample:1.07| - Time: 8.64 seconds
+TEST RESULTS at EPOCH[911/2000]: {'precision': array([0.19709521, 0.13792361]), 'recall': array([0.26692965, 0.37343725]), 'ndcg': array([0.28521025, 0.3373679 ])}
+EPOCH[911/2000] loss0.053-|Sample:1.14| - Time: 9.55 seconds
+EPOCH[912/2000] loss0.053-|Sample:0.99| - Time: 8.43 seconds
+EPOCH[913/2000] loss0.055-|Sample:1.06| - Time: 8.88 seconds
+EPOCH[914/2000] loss0.054-|Sample:1.03| - Time: 8.77 seconds
+EPOCH[915/2000] loss0.053-|Sample:1.12| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[916/2000]: {'precision': array([0.1972028 , 0.13773534]), 'recall': array([0.26746971, 0.37274371]), 'ndcg': array([0.2857935 , 0.33753485])}
+EPOCH[916/2000] loss0.054-|Sample:1.15| - Time: 9.61 seconds
+EPOCH[917/2000] loss0.054-|Sample:0.89| - Time: 8.68 seconds
+EPOCH[918/2000] loss0.055-|Sample:1.03| - Time: 8.96 seconds
+EPOCH[919/2000] loss0.054-|Sample:0.92| - Time: 8.94 seconds
+EPOCH[920/2000] loss0.054-|Sample:1.07| - Time: 8.65 seconds
+TEST RESULTS at EPOCH[921/2000]: {'precision': array([0.19671867, 0.13757396]), 'recall': array([0.26719776, 0.37201623]), 'ndcg': array([0.28708183, 0.33876935])}
+EPOCH[921/2000] loss0.054-|Sample:1.06| - Time: 9.18 seconds
+EPOCH[922/2000] loss0.053-|Sample:0.94| - Time: 8.56 seconds
+EPOCH[923/2000] loss0.054-|Sample:1.12| - Time: 9.02 seconds
+EPOCH[924/2000] loss0.054-|Sample:1.12| - Time: 8.69 seconds
+EPOCH[925/2000] loss0.054-|Sample:0.91| - Time: 8.80 seconds
+TEST RESULTS at EPOCH[926/2000]: {'precision': array([0.1979021 , 0.13706294]), 'recall': array([0.26901539, 0.37016979]), 'ndcg': array([0.28792464, 0.3378416 ])}
+EPOCH[926/2000] loss0.054-|Sample:1.05| - Time: 9.25 seconds
+EPOCH[927/2000] loss0.053-|Sample:0.96| - Time: 8.74 seconds
+EPOCH[928/2000] loss0.054-|Sample:1.08| - Time: 8.83 seconds
+EPOCH[929/2000] loss0.052-|Sample:1.17| - Time: 8.93 seconds
+EPOCH[930/2000] loss0.054-|Sample:0.85| - Time: 8.24 seconds
+TEST RESULTS at EPOCH[931/2000]: {'precision': array([0.19591178, 0.13692846]), 'recall': array([0.26588604, 0.37040588]), 'ndcg': array([0.28356295, 0.33502508])}
+EPOCH[931/2000] loss0.054-|Sample:0.97| - Time: 8.99 seconds
+EPOCH[932/2000] loss0.054-|Sample:1.05| - Time: 8.93 seconds
+EPOCH[933/2000] loss0.054-|Sample:0.95| - Time: 8.68 seconds
+EPOCH[934/2000] loss0.053-|Sample:1.10| - Time: 8.63 seconds
+EPOCH[935/2000] loss0.054-|Sample:0.90| - Time: 8.71 seconds
+TEST RESULTS at EPOCH[936/2000]: {'precision': array([0.19747176, 0.13741259]), 'recall': array([0.26813635, 0.37189178]), 'ndcg': array([0.28626315, 0.33727937])}
+EPOCH[936/2000] loss0.054-|Sample:1.06| - Time: 9.51 seconds
+EPOCH[937/2000] loss0.054-|Sample:1.01| - Time: 8.82 seconds
+EPOCH[938/2000] loss0.053-|Sample:0.89| - Time: 8.58 seconds
+EPOCH[939/2000] loss0.054-|Sample:1.04| - Time: 8.78 seconds
+EPOCH[940/2000] loss0.053-|Sample:0.94| - Time: 8.87 seconds
+TEST RESULTS at EPOCH[941/2000]: {'precision': array([0.19693384, 0.13727811]), 'recall': array([0.26735978, 0.3709026 ]), 'ndcg': array([0.28646954, 0.33747161])}
+EPOCH[941/2000] loss0.053-|Sample:0.94| - Time: 9.41 seconds
+EPOCH[942/2000] loss0.055-|Sample:1.06| - Time: 8.96 seconds
+EPOCH[943/2000] loss0.052-|Sample:0.87| - Time: 8.72 seconds
+EPOCH[944/2000] loss0.054-|Sample:1.09| - Time: 8.77 seconds
+EPOCH[945/2000] loss0.053-|Sample:1.07| - Time: 8.81 seconds
+TEST RESULTS at EPOCH[946/2000]: {'precision': array([0.19903174, 0.13786982]), 'recall': array([0.27038923, 0.3733826 ]), 'ndcg': array([0.28787125, 0.33838834])}
+EPOCH[946/2000] loss0.053-|Sample:0.92| - Time: 9.38 seconds
+EPOCH[947/2000] loss0.055-|Sample:1.10| - Time: 8.55 seconds
+EPOCH[948/2000] loss0.053-|Sample:0.89| - Time: 8.56 seconds
+EPOCH[949/2000] loss0.054-|Sample:1.15| - Time: 8.68 seconds
+EPOCH[950/2000] loss0.053-|Sample:1.09| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[951/2000]: {'precision': array([0.19779451, 0.13749328]), 'recall': array([0.26878997, 0.3724613 ]), 'ndcg': array([0.28727218, 0.33815684])}
+EPOCH[951/2000] loss0.053-|Sample:0.98| - Time: 9.50 seconds
+EPOCH[952/2000] loss0.054-|Sample:1.04| - Time: 9.07 seconds
+EPOCH[953/2000] loss0.053-|Sample:1.07| - Time: 8.82 seconds
+EPOCH[954/2000] loss0.053-|Sample:0.88| - Time: 8.84 seconds
+EPOCH[955/2000] loss0.054-|Sample:1.12| - Time: 9.01 seconds
+TEST RESULTS at EPOCH[956/2000]: {'precision': array([0.19612695, 0.13719742]), 'recall': array([0.26572039, 0.37061998]), 'ndcg': array([0.28487183, 0.33638183])}
+EPOCH[956/2000] loss0.055-|Sample:0.87| - Time: 8.85 seconds
+EPOCH[957/2000] loss0.053-|Sample:1.14| - Time: 8.69 seconds
+EPOCH[958/2000] loss0.052-|Sample:1.10| - Time: 8.77 seconds
+EPOCH[959/2000] loss0.055-|Sample:1.00| - Time: 8.77 seconds
+EPOCH[960/2000] loss0.054-|Sample:0.98| - Time: 8.79 seconds
+TEST RESULTS at EPOCH[961/2000]: {'precision': array([0.19725659, 0.137305  ]), 'recall': array([0.26761828, 0.37070878]), 'ndcg': array([0.2859266 , 0.33683048])}
+EPOCH[961/2000] loss0.053-|Sample:0.87| - Time: 8.87 seconds
+EPOCH[962/2000] loss0.054-|Sample:1.10| - Time: 8.78 seconds
+EPOCH[963/2000] loss0.054-|Sample:1.12| - Time: 8.92 seconds
+EPOCH[964/2000] loss0.054-|Sample:0.91| - Time: 8.59 seconds
+EPOCH[965/2000] loss0.054-|Sample:1.02| - Time: 8.76 seconds
+TEST RESULTS at EPOCH[966/2000]: {'precision': array([0.1964497, 0.137305 ]), 'recall': array([0.26606855, 0.37104818]), 'ndcg': array([0.28534266, 0.3370132 ])}
+EPOCH[966/2000] loss0.054-|Sample:1.06| - Time: 9.23 seconds
+EPOCH[967/2000] loss0.054-|Sample:0.93| - Time: 8.78 seconds
+EPOCH[968/2000] loss0.053-|Sample:1.13| - Time: 8.89 seconds
+EPOCH[969/2000] loss0.055-|Sample:0.89| - Time: 8.90 seconds
+EPOCH[970/2000] loss0.054-|Sample:1.05| - Time: 8.46 seconds
+TEST RESULTS at EPOCH[971/2000]: {'precision': array([0.19623453, 0.13838085]), 'recall': array([0.26631061, 0.37506169]), 'ndcg': array([0.28533156, 0.33855085])}
+EPOCH[971/2000] loss0.054-|Sample:1.03| - Time: 8.88 seconds
+EPOCH[972/2000] loss0.053-|Sample:0.94| - Time: 8.89 seconds
+EPOCH[973/2000] loss0.053-|Sample:1.12| - Time: 8.88 seconds
+EPOCH[974/2000] loss0.052-|Sample:0.91| - Time: 8.76 seconds
+EPOCH[975/2000] loss0.054-|Sample:1.08| - Time: 8.80 seconds
+TEST RESULTS at EPOCH[976/2000]: {'precision': array([0.19757934, 0.13792361]), 'recall': array([0.26821021, 0.37278619]), 'ndcg': array([0.28557733, 0.33698542])}
+EPOCH[976/2000] loss0.054-|Sample:1.01| - Time: 9.62 seconds
+EPOCH[977/2000] loss0.054-|Sample:0.87| - Time: 8.21 seconds
+EPOCH[978/2000] loss0.053-|Sample:1.07| - Time: 8.84 seconds
+EPOCH[979/2000] loss0.054-|Sample:1.06| - Time: 8.88 seconds
+EPOCH[980/2000] loss0.053-|Sample:0.97| - Time: 8.56 seconds
+TEST RESULTS at EPOCH[981/2000]: {'precision': array([0.19537386, 0.13749328]), 'recall': array([0.26441443, 0.37090303]), 'ndcg': array([0.28473316, 0.33721695])}
+EPOCH[981/2000] loss0.052-|Sample:1.10| - Time: 9.35 seconds
+EPOCH[982/2000] loss0.055-|Sample:0.93| - Time: 8.33 seconds
+EPOCH[983/2000] loss0.054-|Sample:1.05| - Time: 9.00 seconds
+EPOCH[984/2000] loss0.053-|Sample:1.08| - Time: 8.47 seconds
+EPOCH[985/2000] loss0.054-|Sample:0.96| - Time: 8.41 seconds
+TEST RESULTS at EPOCH[986/2000]: {'precision': array([0.19612695, 0.13765465]), 'recall': array([0.26531609, 0.37251957]), 'ndcg': array([0.28434679, 0.33681316])}
+EPOCH[986/2000] loss0.056-|Sample:1.16| - Time: 8.89 seconds
+EPOCH[987/2000] loss0.054-|Sample:1.06| - Time: 8.60 seconds
+EPOCH[988/2000] loss0.053-|Sample:0.88| - Time: 8.34 seconds
+EPOCH[989/2000] loss0.054-|Sample:1.16| - Time: 9.01 seconds
+EPOCH[990/2000] loss0.053-|Sample:0.93| - Time: 8.66 seconds
+TEST RESULTS at EPOCH[991/2000]: {'precision': array([0.19553523, 0.13768155]), 'recall': array([0.26435509, 0.37169689]), 'ndcg': array([0.2841694 , 0.33693562])}
+EPOCH[991/2000] loss0.054-|Sample:1.04| - Time: 8.86 seconds
+EPOCH[992/2000] loss0.053-|Sample:1.01| - Time: 8.50 seconds
+EPOCH[993/2000] loss0.054-|Sample:0.90| - Time: 8.56 seconds
+EPOCH[994/2000] loss0.054-|Sample:1.02| - Time: 9.07 seconds
+EPOCH[995/2000] loss0.054-|Sample:0.92| - Time: 8.24 seconds
+TEST RESULTS at EPOCH[996/2000]: {'precision': array([0.19569661, 0.13789672]), 'recall': array([0.26461039, 0.3731653 ]), 'ndcg': array([0.28400916, 0.33695509])}
+EPOCH[996/2000] loss0.054-|Sample:0.87| - Time: 9.36 seconds
+EPOCH[997/2000] loss0.052-|Sample:1.04| - Time: 8.62 seconds
+EPOCH[998/2000] loss0.054-|Sample:0.89| - Time: 8.01 seconds
+EPOCH[999/2000] loss0.054-|Sample:1.04| - Time: 8.62 seconds
+EPOCH[1000/2000] loss0.053-|Sample:1.20| - Time: 9.00 seconds
+TEST RESULTS at EPOCH[1001/2000]: {'precision': array([0.19661108, 0.13835395]), 'recall': array([0.26573427, 0.37466657]), 'ndcg': array([0.28486974, 0.33805013])}
+EPOCH[1001/2000] loss0.053-|Sample:0.87| - Time: 9.03 seconds
+EPOCH[1002/2000] loss0.052-|Sample:1.09| - Time: 9.11 seconds
+EPOCH[1003/2000] loss0.054-|Sample:0.91| - Time: 8.41 seconds
+EPOCH[1004/2000] loss0.054-|Sample:1.02| - Time: 8.47 seconds
+EPOCH[1005/2000] loss0.054-|Sample:1.04| - Time: 9.17 seconds
+TEST RESULTS at EPOCH[1006/2000]: {'precision': array([0.19585799, 0.13808499]), 'recall': array([0.26605638, 0.37368913]), 'ndcg': array([0.28549879, 0.33835989])}
+EPOCH[1006/2000] loss0.053-|Sample:0.90| - Time: 9.14 seconds
+EPOCH[1007/2000] loss0.055-|Sample:1.13| - Time: 8.76 seconds
+EPOCH[1008/2000] loss0.054-|Sample:1.07| - Time: 8.70 seconds
+EPOCH[1009/2000] loss0.054-|Sample:0.92| - Time: 8.67 seconds
+EPOCH[1010/2000] loss0.053-|Sample:1.17| - Time: 8.85 seconds
+TEST RESULTS at EPOCH[1011/2000]: {'precision': array([0.19693384, 0.13698225]), 'recall': array([0.26685601, 0.37033095]), 'ndcg': array([0.28560289, 0.33641257])}
+EPOCH[1011/2000] loss0.053-|Sample:0.87| - Time: 9.13 seconds
+EPOCH[1012/2000] loss0.054-|Sample:1.06| - Time: 9.08 seconds
+EPOCH[1013/2000] loss0.053-|Sample:1.13| - Time: 8.87 seconds
+EPOCH[1014/2000] loss0.053-|Sample:0.94| - Time: 8.54 seconds
+EPOCH[1015/2000] loss0.054-|Sample:1.06| - Time: 9.02 seconds
+TEST RESULTS at EPOCH[1016/2000]: {'precision': array([0.19634212, 0.13821947]), 'recall': array([0.2659695 , 0.37373033]), 'ndcg': array([0.28681154, 0.33959691])}
+EPOCH[1016/2000] loss0.053-|Sample:0.93| - Time: 9.17 seconds
+EPOCH[1017/2000] loss0.053-|Sample:1.07| - Time: 8.58 seconds
+EPOCH[1018/2000] loss0.053-|Sample:1.05| - Time: 8.30 seconds
+EPOCH[1019/2000] loss0.054-|Sample:0.89| - Time: 8.57 seconds
+EPOCH[1020/2000] loss0.053-|Sample:1.10| - Time: 8.82 seconds
+TEST RESULTS at EPOCH[1021/2000]: {'precision': array([0.1964497 , 0.13711673]), 'recall': array([0.26536135, 0.37120593]), 'ndcg': array([0.28481182, 0.33642122])}
+EPOCH[1021/2000] loss0.052-|Sample:1.10| - Time: 9.23 seconds
+EPOCH[1022/2000] loss0.054-|Sample:0.95| - Time: 8.66 seconds
+EPOCH[1023/2000] loss0.053-|Sample:1.15| - Time: 8.90 seconds
+EPOCH[1024/2000] loss0.053-|Sample:0.92| - Time: 8.65 seconds
+EPOCH[1025/2000] loss0.053-|Sample:1.08| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[1026/2000]: {'precision': array([0.19553523, 0.13789672]), 'recall': array([0.26405624, 0.37261798]), 'ndcg': array([0.28500772, 0.33817008])}
+EPOCH[1026/2000] loss0.054-|Sample:1.03| - Time: 9.31 seconds
+EPOCH[1027/2000] loss0.053-|Sample:0.97| - Time: 8.81 seconds
+EPOCH[1028/2000] loss0.054-|Sample:1.10| - Time: 9.13 seconds
+EPOCH[1029/2000] loss0.052-|Sample:0.92| - Time: 8.83 seconds
+EPOCH[1030/2000] loss0.053-|Sample:1.04| - Time: 8.77 seconds
+TEST RESULTS at EPOCH[1031/2000]: {'precision': array([0.19677246, 0.13719742]), 'recall': array([0.2663738 , 0.37163349]), 'ndcg': array([0.28655867, 0.33800487])}
+EPOCH[1031/2000] loss0.055-|Sample:1.05| - Time: 9.41 seconds
+EPOCH[1032/2000] loss0.053-|Sample:0.90| - Time: 8.86 seconds
+EPOCH[1033/2000] loss0.053-|Sample:1.08| - Time: 9.03 seconds
+EPOCH[1034/2000] loss0.053-|Sample:1.09| - Time: 8.48 seconds
+EPOCH[1035/2000] loss0.053-|Sample:0.93| - Time: 8.85 seconds
+TEST RESULTS at EPOCH[1036/2000]: {'precision': array([0.19564282, 0.13776224]), 'recall': array([0.26507766, 0.37279024]), 'ndcg': array([0.28667786, 0.33942948])}
+EPOCH[1036/2000] loss0.053-|Sample:1.07| - Time: 9.41 seconds
+EPOCH[1037/2000] loss0.052-|Sample:0.89| - Time: 8.46 seconds
+EPOCH[1038/2000] loss0.053-|Sample:1.06| - Time: 9.10 seconds
+EPOCH[1039/2000] loss0.053-|Sample:1.16| - Time: 9.03 seconds
+EPOCH[1040/2000] loss0.054-|Sample:0.89| - Time: 8.88 seconds
+TEST RESULTS at EPOCH[1041/2000]: {'precision': array([0.19634212, 0.13827327]), 'recall': array([0.26614176, 0.37386908]), 'ndcg': array([0.28592393, 0.33872367])}
+EPOCH[1041/2000] loss0.053-|Sample:1.09| - Time: 9.29 seconds
+EPOCH[1042/2000] loss0.052-|Sample:1.01| - Time: 8.90 seconds
+EPOCH[1043/2000] loss0.053-|Sample:0.93| - Time: 8.66 seconds
+EPOCH[1044/2000] loss0.052-|Sample:1.11| - Time: 8.88 seconds
+EPOCH[1045/2000] loss0.053-|Sample:0.89| - Time: 8.59 seconds
+TEST RESULTS at EPOCH[1046/2000]: {'precision': array([0.19537386, 0.13738569]), 'recall': array([0.26563351, 0.37155238]), 'ndcg': array([0.28485361, 0.33717516])}
+EPOCH[1046/2000] loss0.054-|Sample:1.09| - Time: 9.61 seconds
+EPOCH[1047/2000] loss0.053-|Sample:1.04| - Time: 9.03 seconds
+EPOCH[1048/2000] loss0.053-|Sample:0.95| - Time: 8.93 seconds
+EPOCH[1049/2000] loss0.053-|Sample:1.08| - Time: 8.76 seconds
+EPOCH[1050/2000] loss0.054-|Sample:0.91| - Time: 8.67 seconds
+TEST RESULTS at EPOCH[1051/2000]: {'precision': array([0.19483593, 0.1366057 ]), 'recall': array([0.26420481, 0.36927346]), 'ndcg': array([0.28345761, 0.33521342])}
+EPOCH[1051/2000] loss0.053-|Sample:0.90| - Time: 9.52 seconds
+EPOCH[1052/2000] loss0.053-|Sample:1.12| - Time: 8.46 seconds
+EPOCH[1053/2000] loss0.053-|Sample:0.95| - Time: 8.72 seconds
+EPOCH[1054/2000] loss0.054-|Sample:1.09| - Time: 8.67 seconds
+EPOCH[1055/2000] loss0.052-|Sample:1.01| - Time: 8.58 seconds
+TEST RESULTS at EPOCH[1056/2000]: {'precision': array([0.19618074, 0.13630984]), 'recall': array([0.26547149, 0.36834597]), 'ndcg': array([0.28469518, 0.3351923 ])}
+EPOCH[1056/2000] loss0.054-|Sample:0.95| - Time: 9.11 seconds
+EPOCH[1057/2000] loss0.054-|Sample:1.04| - Time: 8.33 seconds
+EPOCH[1058/2000] loss0.053-|Sample:0.92| - Time: 8.86 seconds
+EPOCH[1059/2000] loss0.053-|Sample:1.01| - Time: 8.74 seconds
+EPOCH[1060/2000] loss0.054-|Sample:1.12| - Time: 9.12 seconds
+TEST RESULTS at EPOCH[1061/2000]: {'precision': array([0.19542765, 0.13684777]), 'recall': array([0.26486782, 0.37022251]), 'ndcg': array([0.28578029, 0.33738434])}
+EPOCH[1061/2000] loss0.053-|Sample:0.88| - Time: 8.97 seconds
+EPOCH[1062/2000] loss0.053-|Sample:1.14| - Time: 8.97 seconds
+EPOCH[1063/2000] loss0.054-|Sample:1.07| - Time: 8.15 seconds
+EPOCH[1064/2000] loss0.054-|Sample:0.88| - Time: 9.05 seconds
+EPOCH[1065/2000] loss0.054-|Sample:1.07| - Time: 8.52 seconds
+TEST RESULTS at EPOCH[1066/2000]: {'precision': array([0.19526627, 0.13641743]), 'recall': array([0.26467272, 0.36755317]), 'ndcg': array([0.28462259, 0.3354225 ])}
+EPOCH[1066/2000] loss0.052-|Sample:0.87| - Time: 9.24 seconds
+EPOCH[1067/2000] loss0.054-|Sample:1.11| - Time: 8.95 seconds
+EPOCH[1068/2000] loss0.052-|Sample:1.10| - Time: 9.03 seconds
+EPOCH[1069/2000] loss0.053-|Sample:0.98| - Time: 8.74 seconds
+EPOCH[1070/2000] loss0.053-|Sample:1.17| - Time: 8.87 seconds
+TEST RESULTS at EPOCH[1071/2000]: {'precision': array([0.19526627, 0.13692846]), 'recall': array([0.26431368, 0.37018067]), 'ndcg': array([0.28407121, 0.33606481])}
+EPOCH[1071/2000] loss0.053-|Sample:0.87| - Time: 9.03 seconds
+EPOCH[1072/2000] loss0.054-|Sample:1.02| - Time: 8.64 seconds
+EPOCH[1073/2000] loss0.053-|Sample:1.02| - Time: 8.75 seconds
+EPOCH[1074/2000] loss0.051-|Sample:0.90| - Time: 8.62 seconds
+EPOCH[1075/2000] loss0.053-|Sample:1.11| - Time: 8.89 seconds
+TEST RESULTS at EPOCH[1076/2000]: {'precision': array([0.19591178, 0.13711673]), 'recall': array([0.26462533, 0.37029253]), 'ndcg': array([0.28440002, 0.33635656])}
+EPOCH[1076/2000] loss0.054-|Sample:1.04| - Time: 9.22 seconds
+EPOCH[1077/2000] loss0.052-|Sample:1.01| - Time: 8.95 seconds
+EPOCH[1078/2000] loss0.053-|Sample:1.03| - Time: 8.91 seconds
+EPOCH[1079/2000] loss0.053-|Sample:0.90| - Time: 8.68 seconds
+EPOCH[1080/2000] loss0.054-|Sample:1.08| - Time: 9.02 seconds
+TEST RESULTS at EPOCH[1081/2000]: {'precision': array([0.1972028 , 0.13625605]), 'recall': array([0.26661074, 0.3680595 ]), 'ndcg': array([0.28544862, 0.33524852])}
+EPOCH[1081/2000] loss0.054-|Sample:1.02| - Time: 9.21 seconds
+EPOCH[1082/2000] loss0.053-|Sample:0.99| - Time: 8.50 seconds
+EPOCH[1083/2000] loss0.052-|Sample:1.09| - Time: 8.57 seconds
+EPOCH[1084/2000] loss0.053-|Sample:0.88| - Time: 8.59 seconds
+EPOCH[1085/2000] loss0.053-|Sample:1.08| - Time: 8.71 seconds
+TEST RESULTS at EPOCH[1086/2000]: {'precision': array([0.1958042 , 0.13676708]), 'recall': array([0.26463259, 0.36957679]), 'ndcg': array([0.28386971, 0.33520349])}
+EPOCH[1086/2000] loss0.053-|Sample:1.09| - Time: 9.17 seconds
+EPOCH[1087/2000] loss0.054-|Sample:0.89| - Time: 8.94 seconds
+EPOCH[1088/2000] loss0.053-|Sample:1.07| - Time: 8.70 seconds
+EPOCH[1089/2000] loss0.053-|Sample:1.04| - Time: 8.63 seconds
+EPOCH[1090/2000] loss0.053-|Sample:0.90| - Time: 8.43 seconds
+TEST RESULTS at EPOCH[1091/2000]: {'precision': array([0.1979021 , 0.13609467]), 'recall': array([0.26751326, 0.36833679]), 'ndcg': array([0.28593894, 0.33515009])}
+EPOCH[1091/2000] loss0.053-|Sample:1.09| - Time: 8.88 seconds
+EPOCH[1092/2000] loss0.053-|Sample:0.88| - Time: 8.62 seconds
+EPOCH[1093/2000] loss0.053-|Sample:1.04| - Time: 8.98 seconds
+EPOCH[1094/2000] loss0.052-|Sample:1.05| - Time: 8.65 seconds
+EPOCH[1095/2000] loss0.053-|Sample:0.88| - Time: 8.75 seconds
+TEST RESULTS at EPOCH[1096/2000]: {'precision': array([0.19623453, 0.13746638]), 'recall': array([0.26497135, 0.3719428 ]), 'ndcg': array([0.28631508, 0.33853592])}
+EPOCH[1096/2000] loss0.053-|Sample:1.06| - Time: 9.04 seconds
+EPOCH[1097/2000] loss0.053-|Sample:1.25| - Time: 9.11 seconds
+EPOCH[1098/2000] loss0.053-|Sample:1.05| - Time: 8.85 seconds
+EPOCH[1099/2000] loss0.053-|Sample:1.03| - Time: 8.77 seconds
+EPOCH[1100/2000] loss0.053-|Sample:0.89| - Time: 8.34 seconds
+TEST RESULTS at EPOCH[1101/2000]: {'precision': array([0.19483593, 0.13727811]), 'recall': array([0.26315522, 0.37102492]), 'ndcg': array([0.28479339, 0.33761079])}
+EPOCH[1101/2000] loss0.053-|Sample:1.08| - Time: 9.32 seconds
+EPOCH[1102/2000] loss0.053-|Sample:1.09| - Time: 8.49 seconds
+EPOCH[1103/2000] loss0.053-|Sample:0.93| - Time: 8.65 seconds
+EPOCH[1104/2000] loss0.052-|Sample:1.06| - Time: 8.66 seconds
+EPOCH[1105/2000] loss0.053-|Sample:0.88| - Time: 8.93 seconds
+TEST RESULTS at EPOCH[1106/2000]: {'precision': array([0.19526627, 0.13719742]), 'recall': array([0.26356891, 0.37090495]), 'ndcg': array([0.28648797, 0.33892257])}
+EPOCH[1106/2000] loss0.053-|Sample:1.00| - Time: 9.62 seconds
+EPOCH[1107/2000] loss0.052-|Sample:1.06| - Time: 8.72 seconds
+EPOCH[1108/2000] loss0.052-|Sample:0.96| - Time: 8.78 seconds
+EPOCH[1109/2000] loss0.053-|Sample:1.12| - Time: 8.92 seconds
+EPOCH[1110/2000] loss0.053-|Sample:1.12| - Time: 8.73 seconds
+TEST RESULTS at EPOCH[1111/2000]: {'precision': array([0.19671867, 0.13687466]), 'recall': array([0.26542026, 0.37059266]), 'ndcg': array([0.28800394, 0.33929185])}
+EPOCH[1111/2000] loss0.054-|Sample:0.90| - Time: 9.48 seconds
+EPOCH[1112/2000] loss0.052-|Sample:1.09| - Time: 8.96 seconds
+EPOCH[1113/2000] loss0.053-|Sample:0.89| - Time: 8.60 seconds
+EPOCH[1114/2000] loss0.052-|Sample:1.08| - Time: 9.02 seconds
+EPOCH[1115/2000] loss0.053-|Sample:1.08| - Time: 8.94 seconds
+TEST RESULTS at EPOCH[1116/2000]: {'precision': array([0.19623453, 0.137305  ]), 'recall': array([0.26494787, 0.37179935]), 'ndcg': array([0.28559047, 0.33765008])}
+EPOCH[1116/2000] loss0.053-|Sample:0.89| - Time: 8.95 seconds
+EPOCH[1117/2000] loss0.054-|Sample:1.09| - Time: 8.66 seconds
+EPOCH[1118/2000] loss0.052-|Sample:1.07| - Time: 8.75 seconds
+EPOCH[1119/2000] loss0.053-|Sample:0.94| - Time: 8.85 seconds
+EPOCH[1120/2000] loss0.052-|Sample:1.10| - Time: 8.83 seconds
+TEST RESULTS at EPOCH[1121/2000]: {'precision': array([0.19488973, 0.13706294]), 'recall': array([0.2628869 , 0.37061976]), 'ndcg': array([0.28381046, 0.33636038])}
+EPOCH[1121/2000] loss0.053-|Sample:0.87| - Time: 8.87 seconds
+EPOCH[1122/2000] loss0.052-|Sample:1.06| - Time: 9.05 seconds
+EPOCH[1123/2000] loss0.052-|Sample:1.09| - Time: 8.95 seconds
+EPOCH[1124/2000] loss0.052-|Sample:0.91| - Time: 8.76 seconds
+EPOCH[1125/2000] loss0.052-|Sample:1.04| - Time: 9.16 seconds
+TEST RESULTS at EPOCH[1126/2000]: {'precision': array([0.19548144, 0.13674018]), 'recall': array([0.26377575, 0.36942886]), 'ndcg': array([0.28499795, 0.33669519])}
+EPOCH[1126/2000] loss0.052-|Sample:0.94| - Time: 9.06 seconds
+EPOCH[1127/2000] loss0.052-|Sample:1.11| - Time: 8.86 seconds
+EPOCH[1128/2000] loss0.053-|Sample:1.11| - Time: 8.70 seconds
+EPOCH[1129/2000] loss0.052-|Sample:0.97| - Time: 8.82 seconds
+EPOCH[1130/2000] loss0.052-|Sample:1.20| - Time: 8.94 seconds
+TEST RESULTS at EPOCH[1131/2000]: {'precision': array([0.19558903, 0.13657881]), 'recall': array([0.26473441, 0.36879936]), 'ndcg': array([0.28503292, 0.33613784])}
+EPOCH[1131/2000] loss0.052-|Sample:1.10| - Time: 9.50 seconds
+EPOCH[1132/2000] loss0.053-|Sample:1.00| - Time: 8.69 seconds
+EPOCH[1133/2000] loss0.053-|Sample:1.08| - Time: 8.92 seconds
+EPOCH[1134/2000] loss0.052-|Sample:1.02| - Time: 8.44 seconds
+EPOCH[1135/2000] loss0.052-|Sample:1.03| - Time: 8.92 seconds
+TEST RESULTS at EPOCH[1136/2000]: {'precision': array([0.19596557, 0.13563744]), 'recall': array([0.26451647, 0.36688312]), 'ndcg': array([0.28501974, 0.33510825])}
+EPOCH[1136/2000] loss0.053-|Sample:1.12| - Time: 9.32 seconds
+EPOCH[1137/2000] loss0.052-|Sample:0.89| - Time: 8.79 seconds
+EPOCH[1138/2000] loss0.052-|Sample:1.14| - Time: 8.73 seconds
+EPOCH[1139/2000] loss0.053-|Sample:0.88| - Time: 8.37 seconds
+EPOCH[1140/2000] loss0.053-|Sample:1.07| - Time: 8.59 seconds
+TEST RESULTS at EPOCH[1141/2000]: {'precision': array([0.19634212, 0.13657881]), 'recall': array([0.26621882, 0.36957231]), 'ndcg': array([0.28380902, 0.33438912])}
+EPOCH[1141/2000] loss0.053-|Sample:1.03| - Time: 9.24 seconds
+EPOCH[1142/2000] loss0.052-|Sample:0.89| - Time: 8.23 seconds
+EPOCH[1143/2000] loss0.053-|Sample:1.11| - Time: 8.42 seconds
+EPOCH[1144/2000] loss0.053-|Sample:1.13| - Time: 8.84 seconds
+EPOCH[1145/2000] loss0.054-|Sample:0.91| - Time: 8.56 seconds
+TEST RESULTS at EPOCH[1146/2000]: {'precision': array([0.19402905, 0.13725121]), 'recall': array([0.26263992, 0.37121917]), 'ndcg': array([0.28210412, 0.33535405])}
+EPOCH[1146/2000] loss0.052-|Sample:1.09| - Time: 8.68 seconds
+EPOCH[1147/2000] loss0.052-|Sample:0.88| - Time: 8.71 seconds
+EPOCH[1148/2000] loss0.053-|Sample:1.05| - Time: 8.54 seconds
+EPOCH[1149/2000] loss0.052-|Sample:1.05| - Time: 8.94 seconds
+EPOCH[1150/2000] loss0.053-|Sample:0.92| - Time: 8.68 seconds
+TEST RESULTS at EPOCH[1151/2000]: {'precision': array([0.19553523, 0.13625605]), 'recall': array([0.26467208, 0.36773355]), 'ndcg': array([0.2828597 , 0.33363315])}
+EPOCH[1151/2000] loss0.053-|Sample:1.03| - Time: 9.10 seconds
+EPOCH[1152/2000] loss0.052-|Sample:1.03| - Time: 8.32 seconds
+EPOCH[1153/2000] loss0.052-|Sample:0.89| - Time: 7.75 seconds
+EPOCH[1154/2000] loss0.052-|Sample:1.07| - Time: 9.00 seconds
+EPOCH[1155/2000] loss0.053-|Sample:0.98| - Time: 8.79 seconds
+TEST RESULTS at EPOCH[1156/2000]: {'precision': array([0.19537386, 0.13698225]), 'recall': array([0.26458371, 0.37030811]), 'ndcg': array([0.28447907, 0.33627607])}
+EPOCH[1156/2000] loss0.052-|Sample:1.04| - Time: 9.43 seconds
+EPOCH[1157/2000] loss0.053-|Sample:1.08| - Time: 9.34 seconds
+EPOCH[1158/2000] loss0.052-|Sample:0.95| - Time: 8.67 seconds
+EPOCH[1159/2000] loss0.052-|Sample:1.01| - Time: 8.65 seconds
+EPOCH[1160/2000] loss0.053-|Sample:0.89| - Time: 8.55 seconds
+TEST RESULTS at EPOCH[1161/2000]: {'precision': array([0.19585799, 0.13700914]), 'recall': array([0.26510413, 0.37048721]), 'ndcg': array([0.28352057, 0.33521368])}
+EPOCH[1161/2000] loss0.053-|Sample:0.90| - Time: 9.51 seconds
+EPOCH[1162/2000] loss0.052-|Sample:1.01| - Time: 9.01 seconds
+EPOCH[1163/2000] loss0.053-|Sample:0.92| - Time: 8.69 seconds
+EPOCH[1164/2000] loss0.052-|Sample:1.20| - Time: 8.95 seconds
+EPOCH[1165/2000] loss0.052-|Sample:1.06| - Time: 8.58 seconds
